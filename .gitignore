@@ -22,3 +22,6 @@ restaurant-finder/.env.production.local
 restaurant-finder/npm-debug.log*
 restaurant-finder/yarn-debug.log*
 restaurant-finder/yarn-error.log*
+
+hugging_face_dataset.json
+*.zip
