@@ -1,0 +1,133 @@
+[{
+    "restaurant_name": "",
+    "address": "",
+    "instagram": "@lacoffeelist",
+    "famous_for": "",
+    "location_tag": [
+        "#beverlyhills",
+        "#losangelescoffee",
+        "#la",
+        "#losangeles"
+    ]
+},
+{
+    "restaurant_name": "Aquarela Coffee",
+    "address": "601 W 5th St Los Angeles, CA 90071",
+    "instagram": "@lacoffeelist",
+    "famous_for": "Blended Brazilian bar drink, Batida",
+    "location_tag": [
+        "DTLA",
+        "#dtla"
+    ],
+    "cuisine": "[\"Brazilian Specialty Coffee Shop\"]"
+},
+{
+    "restaurant_name": "Concierge Coffee",
+    "address": "821 Traction Ave, Los Angeles, CA 90013",
+    "instagram": "@lacoffeelist",
+    "famous_for": "Berlin-inspired shop with European-style courtyard and featured coffee options",
+    "location_tag": [
+        "artsdistrict",
+        "dtla"
+    ],
+    "cuisine": "[None]"
+},
+{
+    "restaurant_name": "Motoring Coffee",
+    "address": "11728 W Olympic Blvd, Los Angeles, CA 90064",
+    "instagram": "@lacoffeelist",
+    "famous_for": "signature drink: burnt rubber",
+    "location_tag": [
+        "#CulverCity",
+        "#WestHollywood"
+    ],
+    "cuisine": "[]"
+},
+{
+    "restaurant_name": "Makisupa Coffee Bar",
+    "address": "2894 Rowena Ave, Los Angeles, CA 90039",
+    "instagram": "@lacoffeelist",
+    "famous_for": "try their signature peanut butter latte",
+    "location_tag": [
+        "#silverlake",
+        "#SilverLakeCAfe"
+    ],
+    "cuisine": "[\"Coffee Shop\", \"Bakery\"]"
+},
+{
+    "restaurant_name": "The Spoon",
+    "address": "11382 Beach Blvd Ste4, Stanton, CA 90680",
+    "instagram": "@lacoffeelist",
+    "famous_for": "not overly sweetened desserts",
+    "location_tag": [
+        "#oc",
+        "#orangecounty",
+        "#stanton"
+    ],
+    "cuisine": "[\"Western\"]"
+},
+{
+    "restaurant_name": "Café Telegrama",
+    "address": "737 N Western Ave, Los Angeles, CA 90029",
+    "instagram": "@lacoffeelist",
+    "famous_for": "French financier pound cake",
+    "location_tag": [
+        "Melrose",
+        "West Hollywood"
+    ],
+    "cuisine": "[\"French\"]"
+},
+{
+    "restaurant_name": "Cafe Integral",
+    "address": "416 W. 8th St, Los Angeles, CA 90014",
+    "instagram": "@lacoffeelist",
+    "famous_for": "featured coffee with a recommendation rating of 4 out of 5",
+    "location_tag": [
+        "dtla",
+        "dtlacafe"
+    ],
+    "cuisine": "[\"Coffee Shop/Cafe\"]"
+},
+{
+    "restaurant_name": "Suá",
+    "address": "144 N Larchmont Blvd, Los Angeles, CA 90004",
+    "instagram": "@stephhjelmeseth @jingtheory",
+    "famous_for": "Asian-inspired coffee and pastries",
+    "location_tag": [
+        "#larchmont",
+        "#larchmontvillage"
+    ],
+    "cuisine": "[\"Asian-inspired\"]"
+},
+{
+    "restaurant_name": "Loop Espresso Club",
+    "address": "1954 Colorado Blvd Los Angeles, CA 90041",
+    "instagram": "@lacoffeelist",
+    "famous_for": "Authentic and balanced coffee",
+    "location_tag": [
+        "Eagle Rock"
+    ],
+    "cuisine": "[\"Italian\"]"
+},
+{
+    "restaurant_name": "House of ANNUKO",
+    "address": "5790 Washington Blvd, Culver City, CA 90232",
+    "instagram": "@lacoffeelist",
+    "famous_for": "Luxury, Hipster vibes and creative drinks like Strawberry Forrest and Spanish Kiss",
+    "location_tag": [
+        "culvercity",
+        "culvercitycafe"
+    ],
+    "cuisine": "[ \"Coffee Shop\" ]"
+},
+{
+    "restaurant_name": "Series A Coffee",
+    "address": "8328 Wilshire Blvd, Beverly Hills, CA 90211",
+    "instagram": "@lacoffeelist",
+    "famous_for": "quality pastries and coffee drinks with 50% off promotions",
+    "location_tag": [
+        "BeverlyHills",
+        "WilshireBlvd"
+    ],
+    "cuisine": "[\"International Café\"]"
+}]

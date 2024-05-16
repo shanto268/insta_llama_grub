@@ -1,0 +1,120 @@
+[{
+    "restaurant_name": "Soowon Galbi",
+    "address": "3555 W 6th St, Los Angeles, CA 90020",
+    "instagram": "@soowon_galbi",
+    "famous_for": "Galbi (rib) specialty shop with marinated and non-marinated options",
+    "location_tag": [
+        " Koreatown"
+    ],
+    "cuisine": "[ \"Korean BBQ\" ]"
+},
+{
+    "restaurant_name": "Borit Gogae Kfood",
+    "address": "1234 Korea Rd, Seoul, []",
+    "instagram": "@borit_gogae_kfood",
+    "famous_for": "Healthy and tasty Korean food, just like home",
+    "location_tag": [],
+    "cuisine": "[\"Korean\"]"
+},
+{
+    "restaurant_name": "Meals by Genet",
+    "address": "2900 Sunset Blvd, Los Angeles, CA 90026",
+    "instagram": "@mealsbygenet",
+    "famous_for": "Well seasoned Ethiopian cuisine with distinct flavors",
+    "location_tag": [
+        "Silverlake"
+    ],
+    "cuisine": "[\"Ethiopian\"]"
+},
+{
+    "restaurant_name": "Le Champ",
+    "address": "1201 Wisconsin Ave NW, Washington, DC 20007",
+    "instagram": "@lechamp_la",
+    "famous_for": "French-inspired cuisine with unique burger options",
+    "location_tag": [
+        "Fairfax Village"
+    ],
+    "cuisine": "[\"French\"]"
+},
+{
+    "restaurant_name": "Barrique",
+    "address": "Via Garibaldi, 1511, 30122 Venice, Italy",
+    "instagram": "@barriquevenice",
+    "famous_for": "Italian dishes like grilled octopus, lobster linguine, and duck breast",
+    "location_tag": [
+        "Venice"
+    ],
+    "cuisine": "[\"Italian\"]"
+},
+{
+    "restaurant_name": "La La Rice",
+    "address": "2700 W Jefferson Blvd, Los Angeles, CA 90018",
+    "instagram": "@LaLaRice",
+    "famous_for": "Yum woon sen, a popular Thai dish",
+    "location_tag": [
+        "ThaiTown"
+    ],
+    "cuisine": "[\"Thai\"]"
+},
+{
+    "restaurant_name": "Kobee Factory",
+    "address": "3401 Wisconsin Ave NW, Washington, DC 20016",
+    "instagram": "@kobee_factory",
+    "famous_for": "Middle Eastern and Mediterranean cuisine",
+    "location_tag": [
+        "fairfaxvillage"
+    ],
+    "cuisine": "[\"Middle Eastern\", \"Lebanese\"]"
+},
+{
+    "restaurant_name": "Toranj",
+    "address": "11455 W Olympic Blvd, Los Angeles, CA 90064",
+    "instagram": "@toranj_restaurant_la",
+    "famous_for": "Persian cuisine",
+    "location_tag": [
+        "Westwood",
+        "UCLA"
+    ],
+    "cuisine": "[\"Persian\"]"
+},
+{
+    "restaurant_name": "Izakaya Ichie",
+    "address": "2500 Main St, Irvine, CA 92614",
+    "instagram": "@ichieizakaya",
+    "famous_for": "Casual Japanese food with a focus on fresh ingredients",
+    "location_tag": [
+        "The Source OC"
+    ],
+    "cuisine": "[\"Japanese\", \"Izakaya\"]"
+},
+{
+    "restaurant_name": "Obsquare",
+    "address": "1721 El Camino Real, Tustin, CA 92780",
+    "instagram": "@obsquare_tustin",
+    "famous_for": "Korean dishes like egg roll, old style whole fried chicken and army stew",
+    "location_tag": [
+        "Tustin"
+    ],
+    "cuisine": "[ \"Korean\", \"Fusion\" ]"
+},
+{
+    "restaurant_name": "Le Champ",
+    "address": "2424 Glendale Blvd, Silver Lake, Los Angeles, CA 90039",
+    "instagram": "@lechamp_la",
+    "famous_for": "Serving trout and crab dishes",
+    "location_tag": [
+        "Silverlake",
+        "Los Feliz"
+    ],
+    "cuisine": "[French]"
+},
+{
+    "restaurant_name": "Kaan Saab",
+    "address": "23400 Savi Ranch Rd, Yorba Linda, CA 92887",
+    "instagram": "@khansaab_oc",
+    "famous_for": "Pakistani dinner, particularly lamb chops",
+    "location_tag": [
+        "OC"
+    ],
+    "cuisine": "[\"Pakistani\"]"
+}]

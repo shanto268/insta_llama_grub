@@ -1,0 +1,109 @@
+[{
+    "restaurant_name": "",
+    "address": "",
+    "instagram": "",
+    "famous_for": "",
+    "location_tag": ""
+},
+{
+    "restaurant_name": "",
+    "address": "",
+    "instagram": "",
+    "famous_for": "",
+    "location_tag": []
+},
+{
+    "restaurant_name": "",
+    "address": "",
+    "instagram": "@gustobread",
+    "famous_for": "Nixtamal Queen",
+    "location_tag": [
+        "Silver Lake",
+        "Echo Park"
+    ]
+},
+{
+    "restaurant_name": "",
+    "address": "",
+    "instagram": "@kristenlkish",
+    "famous_for": "",
+    "location_tag": ""
+},
+{
+    "restaurant_name": "",
+    "address": "",
+    "instagram": "",
+    "famous_for": "",
+    "location_tag": []
+},
+{
+    "restaurant_name": "",
+    "address": "",
+    "instagram": "",
+    "famous_for": "",
+    "location_tag": []
+},
+{
+    "restaurant_name": "Mojie Noodle",
+    "address": "President Square Food Court in Arcadia",
+    "instagram": "",
+    "famous_for": "Guilin rice noodles with a long, thick version served dry with pork broth and toppings",
+    "location_tag": [
+        "Arcadia",
+        "SGV"
+    ],
+    "cuisine": "[\"Sichuan\", \"Guilin\", \"Chinese\"]"
+},
+{
+    "restaurant_name": "Superrad Sub Shop",
+    "address": "1621 Lincoln Blvd, Santa Monica, CA 90401",
+    "instagram": "@superradsubshop",
+    "famous_for": "Sandwiches",
+    "location_tag": [
+        "West LA",
+        "Santa Monica"
+    ],
+    "cuisine": "[\"American\"]"
+},
+{
+    "restaurant_name": "Phnom Penh Noodle Shack",
+    "address": "2111 E 7th St, Long Beach, CA 90813",
+    "instagram": "@phnompenhnoodleshack",
+    "famous_for": "House Special noodle soup",
+    "location_tag": [
+        "Long Beach",
+        "West Long Beach"
+    ],
+    "cuisine": "[\"Cambodian\"]"
+},
+{
+    "restaurant_name": "Smashburger",
+    "address": "11455 La Cienega Blvd, Los Angeles, CA 90025",
+    "instagram": "smashburger",
+    "famous_for": "gourmet burgers",
+    "location_tag": [
+        "palmsprings",
+        "losangeles"
+    ],
+    "cuisine": "[\"American\", \"Fast Food\", \"Burgers\"]"
+},
+{
+    "restaurant_name": "Gloria's Cuisine",
+    "address": "5607 N Figueroa St, Highland Park, CA 90042",
+    "instagram": "@gloriascuisine.la",
+    "famous_for": "Mexican food",
+    "location_tag": [
+        "Highland Park"
+    ],
+    "cuisine": "[\"Mexican\"]"
+},
+{
+    "restaurant_name": "Jilli",
+    "address": "3455 W Olympic Blvd, Los Angeles, CA 90006",
+    "instagram": "@jilli.la",
+    "famous_for": "Korean-Italian fusion pastas",
+    "location_tag": [
+        "koreatown"
+    ],
+    "cuisine": "[\"Korean-Italian fusion\"]"
+}]

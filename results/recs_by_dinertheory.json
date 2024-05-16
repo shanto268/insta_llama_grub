@@ -1,0 +1,852 @@
+[{
+    "restaurant_name": "",
+    "address": "",
+    "instagram": "Diner Theory",
+    "famous_for": "",
+    "location_tag": []
+},
+{
+    "restaurant_name": "",
+    "address": "",
+    "instagram": "",
+    "famous_for": "",
+    "location_tag": []
+},
+{
+    "restaurant_name": "",
+    "address": "",
+    "instagram": "",
+    "famous_for": "",
+    "location_tag": [
+        "vintagelosangeles"
+    ]
+},
+{
+    "restaurant_name": "",
+    "address": "",
+    "instagram": "",
+    "famous_for": "",
+    "location_tag": []
+},
+{
+    "restaurant_name": "Bill's Taco House",
+    "address": "MLK Blvd.",
+    "instagram": "",
+    "famous_for": "Cheeseburger tacos",
+    "location_tag": [
+        "South Central",
+        "losangeles"
+    ],
+    "cuisine": "[\"Mexican\", \"Americanized Mexican\"]"
+},
+{
+    "restaurant_name": "",
+    "address": "",
+    "instagram": "",
+    "famous_for": "",
+    "location_tag": "#Pittsburgh"
+},
+{
+    "restaurant_name": "Golden Deli",
+    "address": "12345 Garfield Ave, Southgate Mall, Monterey Park, CA 91755",
+    "instagram": "",
+    "famous_for": "Their cha gio, fried pork egg rolls, and slow-simmered pho",
+    "location_tag": [
+        "San Gabriel Valley",
+        "SGV"
+    ],
+    "cuisine": "[\"Vietnamese\"]"
+},
+{
+    "restaurant_name": "Mini Kabob",
+    "address": "1155 S Brand Blvd, Glendale, CA 91204",
+    "instagram": "",
+    "famous_for": "Kabobs, particularly the chicken lule, and Middle Eastern favorites like falafel and eggplant caviar.",
+    "location_tag": [
+        "Glendale"
+    ],
+    "cuisine": "[\"Egyptian\", \"Armenian\", \"Middle Eastern\"]"
+},
+{
+    "restaurant_name": "27th Street Bakery",
+    "address": "1324 S Central Ave, Los Angeles, CA 90021",
+    "instagram": "",
+    "famous_for": "Manufacturer of sweet potato pies and other southern desserts like pecan pie and red velvet cake.",
+    "location_tag": [
+        "South LA",
+        "S. Central 27th"
+    ],
+    "cuisine": "[\"American Southern\"]"
+},
+{
+    "restaurant_name": "El Tepeyac",
+    "address": "1101 S Valley Center Ave, Los Angeles, CA 90031",
+    "instagram": "",
+    "famous_for": "Serving massive burritos and other Mexican comfort foods",
+    "location_tag": [
+        "Boyle Heights",
+        "Eastside"
+    ],
+    "cuisine": "[\"Mexican\"]"
+},
+{
+    "restaurant_name": "Phoenix Bakery",
+    "address": "123 W Alameda St, Los Angeles, CA 90012",
+    "instagram": "",
+    "famous_for": "Strawberry cakes and traditional Chinese treats",
+    "location_tag": [
+        "Chinatown"
+    ],
+    "cuisine": "[\"Chinese\"]"
+},
+{
+    "restaurant_name": "Cole's",
+    "address": "1320 E 7th Pl, Los Angeles, CA 90021",
+    "instagram": "",
+    "famous_for": "Historical landmark and French dip sandwiches",
+    "location_tag": [
+        "dtla"
+    ],
+    "cuisine": "[\"French-American\"]"
+},
+{
+    "restaurant_name": "Cupid'’s Hot Dogs",
+    "address": "Winnetka",
+    "instagram": "",
+    "famous_for": "Serving some of the Valley's finest chili dogs since the 1940s with their signature medium-grain, beanless, and non-liquified chili",
+    "location_tag": [
+        "Winnetka",
+        "thevalley"
+    ],
+    "cuisine": "[\"American\"]"
+},
+{
+    "restaurant_name": "Tommy's",
+    "address": "1234 W 3rd St, Los Angeles, CA 90001",
+    "instagram": "",
+    "famous_for": "Their chili burger, which is a cousin of Greek-inspired Cincinnati chili",
+    "location_tag": [
+        "West Adams",
+        "Los Feliz"
+    ],
+    "cuisine": "[\"American\", \"Mexican\"]"
+},
+{
+    "restaurant_name": "Mandarin Noodle House",
+    "address": "2111 Gruene Rd, Monterey Park, CA 91754",
+    "instagram": "",
+    "famous_for": "Beef noodle soup with handmade noodles, pan-fried dumplings, and onion pancake",
+    "location_tag": [
+        "Montereypark",
+        "sgv"
+    ],
+    "cuisine": "[\"Chinese\"]"
+},
+{
+    "restaurant_name": "Wally's Desert Turtle",
+    "address": "415 S Palm Canyon Dr, Palm Springs, CA 92264",
+    "instagram": "",
+    "famous_for": "Trying to appeal to a new generation with modern menu items, while keeping classic fine dining touches",
+    "location_tag": [
+        "PalmSprings",
+        "Desert",
+        "SouthernCalifornia",
+        "Midcentury"
+    ],
+    "cuisine": "[\"Continental\"]"
+},
+{
+    "restaurant_name": "",
+    "address": "",
+    "instagram": "",
+    "famous_for": "",
+    "location_tag": []
+},
+{
+    "restaurant_name": "",
+    "address": "",
+    "instagram": "@dinertheory",
+    "famous_for": "places where the staff knows regular customers by name, where fry cooks become urban legends, and where you can most tangibly see the city breathing and moving as a living thing.",
+    "location_tag": [
+        "lataco",
+        "#losangeles"
+    ]
+},
+{
+    "restaurant_name": "",
+    "address": "",
+    "instagram": "@dinertheory",
+    "famous_for": "",
+    "location_tag": [
+        "lataco"
+    ]
+},
+{
+    "restaurant_name": "The Bigg Chill",
+    "address": "11455 W Pico Blvd, Los Angeles, CA 90064",
+    "instagram": "",
+    "famous_for": "Best fro-yo shop still standing with 80s vibes and low-calorie, low-fat options",
+    "location_tag": [
+        "Westwood",
+        "Westside"
+    ],
+    "cuisine": "[\"American\", \"Frozen Yogurt\"]"
+},
+{
+    "address": "",
+    "instagram": "",
+    "famous_for": "Bacon-wrapped street hot dogs",
+    "location_tag": [
+        "MacArthur Park",
+        "Santa Monica Pier"
+    ]
+},
+{
+    "restaurant_name": "Sapp Coffee Shop",
+    "address": "5555 Hollywood Blvd, Hollywood, CA 90028",
+    "instagram": "",
+    "famous_for": "authentic Thai dishes, including boat noodles",
+    "location_tag": [
+        "easthollywood",
+        "hollywood"
+    ],
+    "cuisine": "[\"Thai\"]"
+},
+{
+    "restaurant_name": "Donut Man",
+    "address": "On Route 66 in Glendora",
+    "instagram": "",
+    "famous_for": "Creative, outsized donuts, especially their strawberry donut",
+    "location_tag": [
+        "Glendora",
+        "SGV"
+    ],
+    "cuisine": "[\"American\", \"Pastry\"]"
+},
+{
+    "restaurant_name": "Eastside Italian Deli",
+    "address": "1425 W Sunset Blvd, Los Angeles, CA 90026",
+    "instagram": "",
+    "famous_for": "Known for their authentic Italian deli experience and made-in-house mozzarella, prosciutto, salami, and mortadella",
+    "location_tag": [
+        "Little Italy",
+        "Echo Park"
+    ],
+    "cuisine": "[\"Italian\"]"
+},
+{
+    "restaurant_name": "Tom Bergin's",
+    "address": "2521 Griffith Park Blvd, Los Angeles, CA 90026",
+    "instagram": "",
+    "famous_for": "Irish coffee and dark wooden interiors",
+    "location_tag": [
+        "Silver Lake",
+        "Echo Park"
+    ],
+    "cuisine": "[\"Irish\"]"
+},
+{
+    "restaurant_name": "Chez Jay",
+    "address": "2464 Main St, Santa Monica, CA 90405",
+    "instagram": "",
+    "famous_for": "seafood, steak, and cocktails",
+    "location_tag": [
+        "Santamonicapier",
+        "Santa Monica"
+    ],
+    "cuisine": "[\"Seafood\", \"Steak\"]"
+},
+{
+    "restaurant_name": "Fugetsu-do",
+    "address": "245 E San Gabriel Blvd, Pasadena, CA 91107",
+    "instagram": "",
+    "famous_for": "Mochi, manju, and other Japanese confections",
+    "location_tag": [
+        "Little Tokyo"
+    ],
+    "cuisine": "[\"Japanese\"]"
+},
+{
+    "restaurant_name": "The Hat",
+    "address": "1111 Montana Ave, Santa Monica, CA 90401",
+    "instagram": "",
+    "famous_for": "gravy fries",
+    "location_tag": [
+        "Santa Monica"
+    ],
+    "cuisine": "[\"American\", \"Casual/Finger Food\"]"
+},
+{
+    "restaurant_name": "Langer's Deli",
+    "address": "8707 W 3rd St, West Los Angeles, CA 90048",
+    "instagram": "",
+    "famous_for": "making the best pastrami in LA, and many would argue the best in the whole country",
+    "location_tag": [
+        "MacArthur Park",
+        "West Los Angeles"
+    ],
+    "cuisine": "[\"Jewish Deli\"]"
+},
+{
+    "restaurant_name": "Sakae Sushi",
+    "address": "14455 S Western Ave, Gardena, CA 90248",
+    "instagram": "",
+    "famous_for": "Traditional Osaka-style oshizushi and makizushi",
+    "location_tag": [
+        "Gardena"
+    ],
+    "cuisine": "[\"Japanese\", \"Osaka-style\", \"Traditional Sushi\"]"
+},
+{
+    "restaurant_name": "The Luau",
+    "address": "355 N Canon Dr, Beverly Hills, CA 90210",
+    "instagram": "",
+    "famous_for": "Known for serving Cantonese dishes with Polynesian-ish names, and its signature drink, the Bo-Lo, a powerful rum concoction served in a hollowed-out pineapple.",
+    "location_tag": [
+        "Beverlyhills"
+    ],
+    "cuisine": "[\"Polynesian\", \"Cantonese\"]"
+},
+{
+    "restaurant_name": "The Apple Pan",
+    "address": "1238 S Sepulveda Blvd, West Los Angeles, CA 90025",
+    "instagram": "",
+    "famous_for": "Burgers, especially the Steakburger",
+    "location_tag": [
+        "westwood",
+        "westla"
+    ],
+    "cuisine": "[\"American\"]"
+},
+{
+    "restaurant_name": "Shields' Date Gardens",
+    "address": "11151 Highway 111, Indio, CA 92201",
+    "instagram": "",
+    "famous_for": "inventing the date shake as we know it and using patented date crystals for a smoother, even texture",
+    "location_tag": [
+        "Indio",
+        "Coachella Valley",
+        "Palm Desert"
+    ],
+    "cuisine": "[\"Middle Eastern\"]"
+},
+{
+    "restaurant_name": "Damon's",
+    "address": "11501 W Olive Ave, Glendale, CA 91210",
+    "instagram": "",
+    "famous_for": "Combining steak and tiki theme",
+    "location_tag": [
+        "Glendale",
+        "tiki"
+    ],
+    "cuisine": "[\"American\", \"Steakhouse\", \"Tiki-inspired\"]"
+},
+{
+    "restaurant_name": "The Prince",
+    "address": "3400 W 6th St, Los Angeles, CA 90008",
+    "instagram": "",
+    "famous_for": "Korean food and cocktails, with a focus on 1940s Americana- British atmosphere",
+    "location_tag": [
+        "koreatown"
+    ],
+    "cuisine": "[\"Korean\"]"
+},
+{
+    "restaurant_name": "Lucky Boy",
+    "address": "235 S Fair Oaks Ave, Pasadena, CA 91105",
+    "instagram": "",
+    "famous_for": "phenomenal breakfast burritos",
+    "location_tag": [
+        "Pasadena",
+        "#oldlosangeles #vintagelosangeles"
+    ],
+    "cuisine": "[\"Mexican\"]"
+},
+{
+    "restaurant_name": "Mashti Malone’s",
+    "address": "1043 N Fairfax Ave, Los Angeles, CA 90046",
+    "instagram": "",
+    "famous_for": "Persian ice cream featuring exotic flavors of ice cream and faloudeh (a traditional Persian dessert)",
+    "location_tag": [
+        "Hollywood"
+    ],
+    "cuisine": "[\"Persian\"]"
+},
+{
+    "restaurant_name": "Swan Oyster Depot",
+    "address": "2555 Taylor St, San Francisco, CA 94133",
+    "instagram": "",
+    "famous_for": "seafood, cioppino and clam chowder from a bread bowl",
+    "location_tag": [
+        "sanfrancisco",
+        "sfeats",
+        "oldsanfrancisco",
+        "vintagesanfrancisco"
+    ],
+    "cuisine": "[\"Seafood\"]"
+},
+{
+    "restaurant_name": "Al & Bea's",
+    "address": "Al & Bea's: 1234 East Garvey Ave S, West Covina, CA 91790",
+    "instagram": "",
+    "famous_for": "Stellar bean & cheese burritos",
+    "location_tag": [
+        "boyleheights",
+        "eastla",
+        "eastside"
+    ],
+    "cuisine": "[\"Mexican\"]"
+},
+{
+    "restaurant_name": "Ptomaine Tommy",
+    "address": "Lincoln Heights, 1913 (original location), Beverly Blvd in Filipinotown (Original Tommy's)",
+    "instagram": "",
+    "famous_for": "Specializing in chili and burgers, attracting early Hollywood stars like Mae West",
+    "location_tag": [
+        "Lincoln Heights",
+        "Filipinotown"
+    ],
+    "cuisine": "[\"American\"]"
+},
+{
+    "restaurant_name": "Johnnie's Pastrami",
+    "address": "11555 National Blvd, Culver City, CA 90066",
+    "instagram": "",
+    "famous_for": "Pastrami French dip sandwiches",
+    "location_tag": [
+        "culvercity",
+        "venice",
+        "sepulveda"
+    ],
+    "cuisine": "[\"American\", \"Deli\"]"
+},
+{
+    "restaurant_name": "Don the Beachcomber",
+    "address": "1717 Vine St, Los Angeles, CA 90028",
+    "instagram": "",
+    "famous_for": "Starting the first Tiki bar in the world",
+    "location_tag": [
+        "Hollywood",
+        "Los Feliz"
+    ],
+    "cuisine": "[ \"Polynesian\" ]"
+},
+{
+    "restaurant_name": "Guelaguetza",
+    "address": "2222 E Olympic Blvd, Los Angeles, CA 90021",
+    "instagram": "",
+    "famous_for": "Oaxacan food, especially mole",
+    "location_tag": [
+        "Silver Lake",
+        "Echo Park"
+    ],
+    "cuisine": "[\"Oaxacan Mexican\"]"
+},
+{
+    "restaurant_name": "Attari Sandwich Shop",
+    "address": "10615 Santa Monica Blvd, Westwood.",
+    "instagram": "",
+    "famous_for": "Their Persian sandwiches, particularly the tongue sandwich",
+    "location_tag": [
+        "Westwood",
+        "Persian Square"
+    ],
+    "cuisine": "[\"Persian\"]"
+},
+{
+    "restaurant_name": "The Dragon",
+    "address": "123 W Valley Blvd, Alhambra, CA 91801",
+    "instagram": "",
+    "famous_for": "Korean-Chinese cuisine with a unique blend of dishes not found in either Korean or Chinese cooking",
+    "location_tag": [
+        "koreatown",
+        "SGV"
+    ],
+    "cuisine": "[\"Korean-Chinese\"]"
+},
+{
+    "restaurant_name": "El Coyote",
+    "address": "2521 W Silverlake Blvd, Los Angeles, CA 90006",
+    "instagram": "",
+    "famous_for": "Your archetypal combo plate Mexican joint",
+    "location_tag": [
+        "Silverlake",
+        "Hollywood"
+    ],
+    "cuisine": "[\"Mexican\", \"CalMex\"]"
+},
+{
+    "restaurant_name": "Hamburger Hamlet",
+    "address": "8722 Sunset Blvd, West Hollywood, CA 90069",
+    "instagram": "",
+    "famous_for": "serving gourmet hamburgers and martinis to celebrities, occupying a place between PJ Clarke's and Red Robin",
+    "location_tag": [
+        "West Hollywood",
+        "Sunset Strip"
+    ],
+    "cuisine": "[\"American\", \"Gourmet Hamburgers\"]"
+},
+{
+    "restaurant_name": "Pinocchio Restaurant",
+    "address": "124 N San Fernando Blvd, Burbank, CA 91502",
+    "instagram": "",
+    "famous_for": "Classic Italian- American fare for better quality at a fraction of the price",
+    "location_tag": [
+        "Burbank"
+    ],
+    "cuisine": "[\"Italian-American\"]"
+},
+{
+    "restaurant_name": "Yuca's",
+    "address": "2333 Glendale Blvd, Los Feliz, CA 90039",
+    "instagram": "",
+    "famous_for": "Yucatecan food, specifically cochinita pibil and burgers",
+    "location_tag": [
+        "losfeliz",
+        "roadsideamerica"
+    ],
+    "cuisine": "[\"Yucatecan\", \"Mexican\"]"
+},
+{
+    "restaurant_name": "Red's Java House",
+    "address": "114 Powell St, San Francisco, CA 94102",
+    "instagram": "",
+    "famous_for": "food for midcentury dockworkers, bold and uncompromising",
+    "location_tag": [
+        "sanfrancisco",
+        "sanfran",
+        "sffood",
+        "oldsanfrancisco",
+        "vintagesanfrancisco"
+    ],
+    "cuisine": "[\"American\", \"Comfort Food\", \"Classic Diner\"]"
+},
+{
+    "restaurant_name": "Pann's",
+    "address": "8632 W Pico Blvd, Los Angeles, CA 90035",
+    "instagram": "",
+    "famous_for": "Best-preserved, still-operational Googie artifact and offering traditional blue plate specials",
+    "location_tag": [
+        "inglewood"
+    ],
+    "cuisine": "[ \"American\" ]"
+},
+{
+    "restaurant_name": "Bay Cities Italian Deli",
+    "address": "2121 Lincoln Blvd, Santa Monica, CA 90405",
+    "instagram": "",
+    "famous_for": "The Godmother sandwich, a legendary Italian deli sandwich made with salumi and giardiniera",
+    "location_tag": [
+        "santamonica",
+        "italiandeli"
+    ],
+    "cuisine": "[\"Italian\"]"
+},
+{
+    "restaurant_name": "Dodger Dogs",
+    "address": "1000 Vin Scully Ave, Los Angeles, CA 90012",
+    "instagram": "",
+    "famous_for": "100% pork wiener hot dogs",
+    "location_tag": [
+        "Chavez Ravine",
+        "Dodger Stadium"
+    ],
+    "cuisine": "[\"American\", \"Fast Food\", \"Hot Dog\"]"
+},
+{
+    "restaurant_name": "Tam O'Shanter",
+    "address": "2911 Los Feliz Blvd, Los Angeles, CA 90039",
+    "instagram": "",
+    "famous_for": "Prime rib during Christmastime, along with carolers performing every night",
+    "location_tag": [
+        "Atwater Village"
+    ],
+    "cuisine": "[\"British\", \"Scottish\"]"
+},
+{
+    "restaurant_name": "Otomisan",
+    "address": "2135 East 1st Street, Los Angeles, CA 90033",
+    "instagram": "",
+    "famous_for": "Japanese diner with knick-knack-packed little lunchroom serving classic Japanese dishes such as sushi and tempura",
+    "location_tag": [
+        "Boyle Heights",
+        "East LA",
+        "Eastside"
+    ],
+    "cuisine": "[\"Japanese\"]"
+},
+{
+    "restaurant_name": "Bob's Big Boy",
+    "address": "12343 Firestone Blvd, Downey, CA 90241",
+    "instagram": "",
+    "famous_for": "Classic diner with a rich history and retro aesthetic",
+    "location_tag": [
+        "Downey",
+        "southerncalifornia"
+    ],
+    "cuisine": "[\"American\"]"
+},
+{
+    "restaurant_name": "Bob's Big Boy",
+    "address": "1000 N San Fernando Blvd, Burbank, CA 91504",
+    "instagram": "",
+    "famous_for": "burgers and car culture",
+    "location_tag": [
+        "Burbank",
+        "#Burbank"
+    ],
+    "cuisine": "[\"American\", \"Fast Food\", \"Diner Fare\"]"
+},
+{
+    "restaurant_name": "The Derby",
+    "address": "1501 S Baldwin Ave, Arcadia, CA 91007",
+    "instagram": "",
+    "famous_for": "classic horse racing-themed steakhouse with fantastic Christmas decorations",
+    "location_tag": [
+        "Arcadia",
+        "SGV"
+    ],
+    "cuisine": "[\"Steakhouse\", \"American\"]"
+},
+{
+    "restaurant_name": "Tadich Grill",
+    "address": "444 Columbus Ave, San Francisco, CA 94133",
+    "instagram": "",
+    "famous_for": "The birthplace of the three-martini lunch and offering a position of equality with everyone else at the bar.",
+    "location_tag": [
+        "Financial District",
+        "SF"
+    ],
+    "cuisine": "[\"American\"]"
+},
+{
+    "restaurant_name": "",
+    "address": "",
+    "instagram": "",
+    "famous_for": "Korean-Style Tonkatsu, Korean-Chinese dumplings",
+    "location_tag": [
+        "Koreatown"
+    ]
+},
+{
+    "restaurant_name": "Pink's",
+    "address": "12345 Sunset Boulevard, Beverly Grove, CA 90046",
+    "instagram": "",
+    "famous_for": "Specialty hot dogs named after celebrities and their old family chili recipe",
+    "location_tag": [
+        "beverlygrove",
+        "sunsetboulevard"
+    ],
+    "cuisine": "[\"American\", \"Fast Food\", \"Hot Dogs\"]"
+},
+{
+    "restaurant_name": "Tito's Tacos",
+    "address": "10455 Washington Blvd, Culver City, CA 90232",
+    "instagram": "",
+    "famous_for": "Authentically Cal-Mex tacos with a nostalgic and satisfying taste",
+    "location_tag": [
+        "culvercity"
+    ],
+    "cuisine": "[\"Mexican\", \"Cal-Mex\"]"
+},
+{
+    "restaurant_name": "Dinah's",
+    "address": "123 Main St, Santa Monica, CA 90401",
+    "instagram": "",
+    "famous_for": "Their pressure-fried chicken with a secret seasoning recipe, and juicy, crispy fried skin.",
+    "location_tag": [
+        "Glendale",
+        "Culver City"
+    ],
+    "cuisine": "[\"American\", \"Fusion\", \"Southern\"]"
+},
+{
+    "restaurant_name": "Falafel Arax",
+    "address": "5323 W Sunset Blvd, Los Angeles, CA 90027",
+    "instagram": "",
+    "famous_for": "Crispy but not tough falafel, shawourma on French bread, and hummos",
+    "location_tag": [
+        "Little Armenia",
+        "East Hollywood"
+    ],
+    "cuisine": "[\"Armenian\", \"Lebanese\", \"Middle Eastern\"]"
+},
+{
+    "restaurant_name": "Original Tommy's",
+    "address": "13455 Ventura Blvd, Sherman Oaks, CA 91423",
+    "instagram": "",
+    "famous_for": "Chili Burger",
+    "location_tag": [
+        "Filipinotown",
+        "LA"
+    ],
+    "cuisine": "[\"American\"]"
+},
+{
+    "restaurant_name": "Randy's Donuts",
+    "address": "5700 W Manchester Blvd, Inglewood, CA 90305",
+    "instagram": "",
+    "famous_for": "Solidly above average donuts with a melt-in-your-mouth quality to the frosting",
+    "location_tag": [
+        "Inglewood"
+    ],
+    "cuisine": "[\"American\"]"
+},
+{
+    "restaurant_name": "Dinah's Family Restaurant",
+    "famous_for": "German pancake and breakfast dishes",
+    "location_tag": [
+        "culvercity",
+        "diner",
+        "googie"
+    ],
+    "address": "1055 E Truxton Rd, Culver City, CA 90232",
+    "cuisine": "[\"American\", \"Googie\", \"Diner\", \"Classic American\"]"
+},
+{
+    "restaurant_name": "Tiki Ti",
+    "address": "10349 Santa Monica Blvd, Los Angeles, CA 90024",
+    "instagram": "",
+    "famous_for": "Authentic tiki drinks with complex recipes developed by the Buhen family patriarch",
+    "location_tag": [
+        "Silverlake",
+        "EchoPark"
+    ],
+    "cuisine": "[\"Tiki\", \"Polynesian\"]"
+},
+{
+    "restaurant_name": "El Cholo",
+    "address": "104 S Fairfax Ave, Los Angeles, CA 90036",
+    "instagram": "",
+    "famous_for": "Cal-Mex",
+    "location_tag": [
+        "koreatown"
+    ],
+    "cuisine": "[\"Mexican\", \"Cal-Mex\"]"
+},
+{
+    "restaurant_name": "Tam O'Shanter",
+    "address": "2900 Los Feliz Blvd, Los Angeles, CA 90039",
+    "instagram": "",
+    "famous_for": "a Scottish pub with meticulously decorated interior, evoking a cartoon image of Scotland",
+    "location_tag": [
+        "Atwater Village",
+        "Disney"
+    ],
+    "cuisine": "[\"British\", \"Scottish\"]"
+},
+{
+    "restaurant_name": "Brent's Deli",
+    "address": "12345 Santa Monica Blvd, Brentwood, CA 90049",
+    "instagram": "101LAlegends",
+    "famous_for": "Managing to do almost everything well, including hand slicing lox and pickling gherkins in-house",
+    "location_tag": [
+        "BrentsDelosAngeles",
+        "WestLosAngeles"
+    ],
+    "cuisine": "[Jewish Deli]"
+},
+{
+    "restaurant_name": "Norm's",
+    "address": "3555 W La Cienega Blvd, Los Angeles, CA 90034",
+    "instagram": "",
+    "famous_for": "One of the last 24-hour diners in LA, serving classic diner dishes like liver & onions",
+    "location_tag": [
+        "La Cienega",
+        "Beverly Grove"
+    ],
+    "cuisine": "[ \"American\", \"Diner\" ]"
+},
+{
+    "restaurant_name": "The Farmer's Market",
+    "address": "10960 Little River Turnpike Fairfax, VA 22030",
+    "instagram": "",
+    "famous_for": "LA Legend and historic marketplace with various food stalls, including legacy vendors",
+    "location_tag": [
+        "Fairfax"
+    ],
+    "cuisine": "[\"American\"]\n[\"Diner\"]\n[\"Casual/Bazaar-Style Vendors with various cuisines\"]"
+},
+{
+    "restaurant_name": "Canter's",
+    "address": "10515 Main St, Fairfax, VA 22030",
+    "instagram": "",
+    "famous_for": "classic Jewish diner with a rich history and comforting familiarity",
+    "location_tag": [
+        "fairfax"
+    ],
+    "cuisine": "[\"Jewish Deli/Diner\", \"American\"]"
+},
+{
+    "restaurant_name": "Pie 'N Burger",
+    "address": "170 North Raymond Avenue Pasadena, CA 91103",
+    "instagram": "#101LAlegends",
+    "famous_for": "One of the top tier LA burgers with a toasted bun and beefier patty",
+    "location_tag": [
+        "pasadena"
+    ],
+    "cuisine": "[\"American\"]"
+},
+{
+    "restaurant_name": "Musso & Frank Grill",
+    "address": "6722 Hollywood Blvd, Hollywood, CA 90028",
+    "instagram": "",
+    "famous_for": "Pre-Depression, all-American haute cuisine with thick, reduced sauces and heavy cream",
+    "location_tag": [
+        "hollywood",
+        "oldhollywood"
+    ],
+    "cuisine": "[\"Continental\", \"American haute cuisine\"]"
+},
+{
+    "restaurant_name": "Grand Central Market",
+    "address": "317 S Broadway, Los Angeles, CA 90013",
+    "instagram": "",
+    "famous_for": "independent food vendors with a variety of options",
+    "location_tag": [
+        "dtla"
+    ],
+    "cuisine": "[\"Chinese\", \"Salvadoran\", \"Mexican\", \"Breakfast/Cafe\"]"
+},
+{
+    "restaurant_name": "The Formosa",
+    "address": "104 W San Vicente Blvd, West Hollywood, CA 90048",
+    "instagram": "",
+    "famous_for": "Serving Golden Age Hollywood celebrities in a casual environment and restoring its classic interior to 1940s glory",
+    "location_tag": [
+        "westhollywood"
+    ],
+    "cuisine": "[\"Chinese\"]"
+},
+{
+    "restaurant_name": "Original Pantry Cafe",
+    "address": "506 S Figueroa St, Los Angeles, CA 90071",
+    "instagram": "",
+    "famous_for": "a venue for the creation of fond memories",
+    "location_tag": [
+        "Figueroa"
+    ],
+    "cuisine": "[\"American\"]"
+},
+{
+    "restaurant_name": "Bill's Burgers",
+    "address": "12345 Ventura Blvd, Studio City, CA 91604",
+    "instagram": "",
+    "famous_for": "legendary burgers made with a secret ingredient: an older-than-World-War-I griddle and the expertise of the owner, Bill",
+    "location_tag": [
+        "sfv",
+        "101LALegends"
+    ],
+    "cuisine": "[\"American\", \"Burgers\"]"
+},
+{
+    "restaurant_name": "The Hat",
+    "address": "3333 Riverside Dr, San Bernardino, CA 92404",
+    "instagram": "",
+    "famous_for": "Pastrami Dip sandwich",
+    "location_tag": [
+        "Inland Empire",
+        "SGV"
+    ],
+    "cuisine": "[ \"American\" ]"
+}]

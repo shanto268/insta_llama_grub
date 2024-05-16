@@ -1,0 +1,24 @@
+__pycache__/*
+.secrets
+.env
+
+# dependencies
+restaurant-finder/node_modules
+restaurant-finder/.pnp
+restaurant-finder/.pnp.js
+
+# testing
+restaurant-finder/coverage
+
+# production
+restaurant-finder/build
+
+# misc
+restaurant-finder/.DS_Store
+restaurant-finder/.env.local
+restaurant-finder/.env.development.local
+restaurant-finder/.env.test.local
+restaurant-finder/.env.production.local
+restaurant-finder/npm-debug.log*
+restaurant-finder/yarn-debug.log*
+restaurant-finder/yarn-error.log*

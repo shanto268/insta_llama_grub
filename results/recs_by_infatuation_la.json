@@ -1,0 +1,2629 @@
+[
+  {
+    "restaurant_name": "Kuya Lord",
+    "address": "2221 W Pico Blvd, Los Angeles, CA 90006",
+    "instagram": "@kuyalord_la",
+    "famous_for": "incredible Filipino food",
+    "location_tag": ["infatuationla", "losangeles"],
+    "cuisine": "[\"Filipino\"]"
+  },
+  {
+    "restaurant_name": "Kanomwaan LA",
+    "address": "@eeeeeatscon #infatuationla #EEEEEATS LA - Kanomwaan LA, 10850 Le Conte Ave, Los Angeles, CA 90024",
+    "instagram": "@kanomwaanla",
+    "famous_for": "rich and custardy Thai gelato",
+    "location_tag": ["@eeeeeatscon", "#infatuationla", "#EEEEEATS", "LA"],
+    "cuisine": "[\"Thai\"]"
+  },
+  {
+    "restaurant_name": "Le Great Outdoor",
+    "address": "1050 S La Brea Ave, Los Angeles, CA 90019",
+    "instagram": "@legreatoutdoor",
+    "famous_for": "One of LA's Best New Restaurants",
+    "location_tag": ["infatuationla", "#losangeles"],
+    "cuisine": "[\"Contemporary American\"]"
+  },
+  {
+    "restaurant_name": "Infatuation LA",
+    "address": "1415 Abbot Kinney Blvd, Venice, CA 90291",
+    "instagram": "infatualation",
+    "famous_for": "Helping people decide where to meet in the middle for dinner",
+    "location_tag": ["Santa Monica", "Venice"],
+    "cuisine": "[\"American\"]"
+  },
+  {
+    "restaurant_name": "Little Fish",
+    "address": "1235 South Alvarado Street, Los Angeles, CA 90006",
+    "instagram": "littlefish_echopark",
+    "famous_for": "beer-battered fish sandwich",
+    "location_tag": ["EchoPark"],
+    "cuisine": "[Seafood/Fish-based American comfort food]"
+  },
+  {
+    "restaurant_name": "Langer's Deli",
+    "address": "1555 Westwood Blvd, Los Angeles, CA 90024",
+    "instagram": "@langersdeli",
+    "famous_for": "Best coffee in LA",
+    "location_tag": ["Westlake"],
+    "cuisine": "[\"Jewish Deli\"]"
+  },
+  {
+    "restaurant_name": "Dunsmoor",
+    "address": "222 S San Pedro St, Los Angeles, CA 90012",
+    "instagram": "@dunsmoor.la",
+    "famous_for": "decadent bar burger",
+    "location_tag": ["losangeles", "infatuationla"],
+    "cuisine": "[\"American\"]"
+  },
+  {
+    "restaurant_name": "El Bacano La",
+    "address": "2223 Lincoln Blvd #101, Santa Monica, CA 90405",
+    "instagram": "@elbacanola",
+    "famous_for": "simple, delicious Dominican staples",
+    "location_tag": ["infatuationla", "#losangeles", "#EEEEEATS"],
+    "cuisine": "[\"Dominican\"]"
+  },
+  {
+    "restaurant_name": "Uchi",
+    "address": "2222 M St NW, Washington, DC 20037",
+    "instagram": "@sylvmartins",
+    "famous_for": "Japanese food with a more-is-more approach",
+    "location_tag": ["#infatuationnla", "#EEEEEATS"],
+    "cuisine": "[\"Japanese\"]"
+  },
+  {
+    "restaurant_name": "Vespertine",
+    "address": "1055 South Seward Street, Los Angeles, CA 90019",
+    "instagram": "",
+    "famous_for": "",
+    "location_tag": ["infatuationla", "losangeles"],
+    "cuisine": "[None]"
+  },
+  {
+    "restaurant_name": "Langers Deli",
+    "address": "7277 Beverly Blvd, Los Angeles, CA 90036",
+    "instagram": "@langersdeli",
+    "famous_for": "Pastrami",
+    "location_tag": ["#infatuationla", "#losangeles"],
+    "cuisine": "[\"Jewish Deli/American\"]"
+  },
+  {
+    "restaurant_name": "@theluckytiki",
+    "address": "1044 Abbot Kinney Blvd, Venice, CA 90291",
+    "instagram": "@theluckytiki",
+    "famous_for": "sneaky-strong cocktails served in smoking treasure chests",
+    "location_tag": ["above Tail O’ The Pup", "EEEEEATS", "infatuationla"],
+    "cuisine": "[Tiki Bar]"
+  },
+  {
+    "restaurant_name": "Real Italian Deli",
+    "address": "1550 N Palm Canyon Dr, Palm Springs, CA 92262",
+    "instagram": "@realitaliandeli",
+    "famous_for": "making some of our favorite sandwiches in the city",
+    "location_tag": "#PalmSprings",
+    "cuisine": "[\"Italian\"]"
+  },
+  {
+    "restaurant_name": "Uchi",
+    "address": "1029 Abbot Kinney Blvd, Venice, CA 90291",
+    "instagram": "@uchirestaurants",
+    "famous_for": "upscale Japanese cuisine and sushi",
+    "location_tag": ["#infatuationla", "#losangeles"],
+    "cuisine": "[\"Japanese\", \"Sushi\"]"
+  },
+  {
+    "restaurant_name": "MidEast Tacos",
+    "address": "1651 W Sunset Blvd, Los Angeles, CA 90026",
+    "instagram": "@mideasttacos",
+    "famous_for": "Impressive tacos",
+    "location_tag": [
+      "infatuationla",
+      "#losangeles",
+      "#larestaurants",
+      "#EEEEEATS"
+    ],
+    "cuisine": "[\"Middle Eastern\"]"
+  },
+  {
+    "restaurant_name": "Buca di Beppo",
+    "address": "333 S Fairfax Ave, Los Angeles, CA 90036",
+    "instagram": "",
+    "famous_for": "unknown, but highly rated",
+    "location_tag": ["infatuationla", "#Silverlake"],
+    "cuisine": "[\"Italian\"]"
+  },
+  {
+    "restaurant_name": "Red Room LA",
+    "address": "8707 W Olympic Blvd, West Hollywood, CA 90048",
+    "instagram": "@redroom_la",
+    "famous_for": "wine bar with something fizzy and funky",
+    "location_tag": ["Olympic Blvd"],
+    "cuisine": "[]"
+  },
+  {
+    "restaurant_name": "Cafetropicalsunset",
+    "address": "2427 Main St, Santa Monica, CA 90405",
+    "instagram": "@cafetropicalsunset",
+    "famous_for": "baked goods",
+    "location_tag": "#SantaMonica",
+    "cuisine": "[\"Pastries/Bakery\"]"
+  },
+  {
+    "restaurant_name": "lasita",
+    "address": "2727 Glendale Blvd, Silverlake, CA 90039",
+    "instagram": "@lasita.la",
+    "famous_for": "pork belly lechon with skin crackle",
+    "location_tag": ["Silverlake", "EastHollywood"],
+    "cuisine": "[\"Filipino\"]"
+  },
+  {
+    "restaurant_name": "Fabby's Sandwicherie",
+    "address": "1717 W Sunset Blvd, Los Angeles, CA 90026",
+    "instagram": "@fabbys.sandwicherie",
+    "famous_for": "Luxurious tortas",
+    "location_tag": ["infatuationla", "#losangeles"],
+    "cuisine": "[\"Mexican\"]"
+  },
+  {
+    "restaurant_name": "Budonoki",
+    "address": "2222 W Magnolia Blvd, Burbank, CA 91506",
+    "instagram": "@budonokila",
+    "famous_for": "Strong drinks, spicy playlists, and tremendous food",
+    "location_tag": ["infatuationla", "#EEEEEATS"],
+    "cuisine": "[None]"
+  },
+  {
+    "restaurant_name": "The LA Hit List",
+    "address": "5555 Wilshire Blvd, Los Angeles, CA 90036",
+    "instagram": "infatuationla",
+    "famous_for": "Strong first impression",
+    "location_tag": ["losangeles", "EEEEEATS"],
+    "cuisine": "[\"American\"]"
+  },
+  {
+    "restaurant_name": "Mae Malai",
+    "address": "123/1 Sukhumvit Road, Khlong Tan Nua, Watthana, Bangkok 10110",
+    "instagram": "",
+    "famous_for": "Savory-sour-spicy noodle soup",
+    "location_tag": ["lathai", "EEEEEATS"],
+    "cuisine": "[Thai]"
+  },
+  {
+    "restaurant_name": "@forthewinla",
+    "address": "1234 Santa Monica Blvd, West Hollywood, CA 90048",
+    "instagram": "@forthewinla",
+    "famous_for": "Smashburgers with juicy, flavorful patties and crispy charred edges",
+    "location_tag": ["#infatuationla", "#losangeles", "#EEEEEATS"],
+    "cuisine": "[\"American\"]"
+  },
+  {
+    "restaurant_name": "ktownchichi",
+    "address": "625 S Western Ave, Los Angeles, CA 90006",
+    "instagram": "@ktownchichi",
+    "famous_for": "virtual drinking games where you can win more than just a debilitating hangover",
+    "location_tag": "#westhollywood",
+    "cuisine": "[\"American\"]"
+  },
+  {
+    "restaurant_name": "Mini Kabob",
+    "address": "10520 Ventura Blvd, Studio City, CA 91604",
+    "instagram": "@mini_kabob",
+    "famous_for": "Family-run LA classic",
+    "location_tag": "#infatuationla #EEEEEATS",
+    "cuisine": "[\"Persian/Middle Eastern\"]"
+  },
+  {
+    "restaurant_name": "etra",
+    "address": "2425 Griffith Park Blvd, Los Angeles, CA 90039",
+    "instagram": "@etra.la",
+    "famous_for": "unfussy Italian staples",
+    "location_tag": ["infatuationla", "#SilverLake"],
+    "cuisine": "[\"Italian\"]"
+  },
+  {
+    "restaurant_name": "Dulans",
+    "address": "Crenshaw",
+    "instagram": "@dulans_on_crenshaw",
+    "famous_for": "soul food",
+    "location_tag": ["South LA"],
+    "cuisine": "[\"Soul Food\"]"
+  },
+  {
+    "restaurant_name": "_perilla.la",
+    "address": "4345 W Sunset Blvd, Los Angeles, CA 90029",
+    "instagram": "@_perilla.la",
+    "famous_for": "inventive banchan shop",
+    "location_tag": [
+      "infatuationla",
+      "#Silverlake",
+      "infautation#larestaurants"
+    ],
+    "cuisine": "[Korean]"
+  },
+  {
+    "restaurant_name": "wakeandlate",
+    "address": "2222 W Sunset Blvd, Los Angeles, CA 90026",
+    "instagram": "@wakeandlate",
+    "famous_for": "Sourdough bagels and breakfast burritos",
+    "location_tag": ["infatuationla", "#SilverLake"],
+    "cuisine": "[\"American\"]"
+  },
+  {
+    "restaurant_name": "Si Mon La",
+    "address": "555 Abbot Kinney Blvd, Venice, CA 90211",
+    "instagram": "@si.monla",
+    "famous_for": "bold, bright, and attractively plated dishes with unique Caribbean and Central American flavors",
+    "location_tag": "#venice",
+    "cuisine": "[\"Panamanian\", \"Caribbean\", \"Central American\"]"
+  },
+  {
+    "restaurant_name": "Sushi Park",
+    "address": "12345 Santa Monica Blvd, West Hollywood, CA 90025",
+    "instagram": "@sushipark",
+    "famous_for": "Nigiri and celebrity sightings",
+    "location_tag": ["infatuationla", "#losangeles", "#larestaurants"],
+    "cuisine": "[\"Japanese\", \"Sushi\"]"
+  },
+  {
+    "restaurant_name": "ktownpho",
+    "address": "541 S Western Ave, Los Angeles, CA 90026",
+    "instagram": "ktownpho",
+    "famous_for": "great pho",
+    "location_tag": ["koreatown"],
+    "cuisine": "[\"Vietnamese\"]"
+  },
+  {
+    "restaurant_name": "KFC",
+    "address": "12345 Yonge Street, Toronto, ON M4T 1Z6",
+    "instagram": "",
+    "famous_for": "Constructivist architecture",
+    "location_tag": ["Western"],
+    "cuisine": "[\"Kentucky Fried Chicken\", \"Fusion (American-Asian)\"]"
+  },
+  {
+    "restaurant_name": "Owen Han",
+    "address": "123 W 5th St #201, Los Angeles, CA 90013",
+    "instagram": "owen.han",
+    "famous_for": "Elaborate sandwiches and earning the title 'Sandwich King'",
+    "location_tag": ["infatuationla", "#EEEEEATS"],
+    "cuisine": "[\"American\", \"Sandwiches\"]"
+  },
+  {
+    "restaurant_name": "Shlap Muan",
+    "address": "1234 S La Brea Ave, Los Angeles, CA 90019",
+    "instagram": "@shlapmuan",
+    "famous_for": "Cambodian wings specialist",
+    "location_tag": ["infatuationla", "winter25"],
+    "cuisine": "[\"Cambodian\"]"
+  },
+  {
+    "restaurant_name": "Little Fish",
+    "address": "Sunset",
+    "instagram": "@littlefish_echopark",
+    "famous_for": "beer-battered fish sandwich",
+    "location_tag": ["EchoPark"],
+    "cuisine": "[\"Seafood\", \"American\"]"
+  },
+  {
+    "restaurant_name": "Tigres Fuego",
+    "address": "2427 Main St, Santa Monica, CA 90405",
+    "instagram": "@tigresfuego",
+    "famous_for": "Weekend-only breakfast burrito",
+    "location_tag": ["Santa Monica"],
+    "cuisine": "[\"Mexican\"]"
+  },
+  {
+    "restaurant_name": "Infatuation",
+    "address": "4326 W Sunset Blvd, Los Angeles, CA 90029",
+    "instagram": "infatuation",
+    "famous_for": "Meeting people halfway for dinner",
+    "location_tag": ["#Silverlake"],
+    "cuisine": "[]"
+  },
+  {
+    "restaurant_name": "@traktirla",
+    "address": "8255 W 3rd St, Los Angeles, CA 90048",
+    "instagram": "@brantcox",
+    "famous_for": "known for its Russian/ Ukrainian community roots",
+    "location_tag": ["westhollywood"],
+    "cuisine": "[\"Russian\", \"Ukrainian\"]"
+  },
+  {
+    "restaurant_name": "Descanso Gardens Spa",
+    "address": "4700 Crystal Springs Dr, Los Angeles, CA 90027",
+    "instagram": "@descansogardenspa",
+    "famous_for": "Korean spas in LA",
+    "location_tag": ["Silverlake", "EchoPark"],
+    "cuisine": "[\"Korean\"]"
+  },
+  {
+    "restaurant_name": "eat at la",
+    "address": "2900 Main St, Santa Monica, CA 90405",
+    "instagram": "@eatatla",
+    "famous_for": "catch-all for lunch, cocktails, or a high-stakes date night",
+    "location_tag": "#infatuationla #SantaMonica",
+    "cuisine": "[\"American\"]"
+  },
+  {
+    "restaurant_name": "La Pupusa DTLA",
+    "address": "422 W 7th St, Los Angeles, CA 90014",
+    "instagram": "@lapupusadtla",
+    "famous_for": "Heart-shaped pupusas",
+    "location_tag": ["DowntownLA", "ArtsDistrict"],
+    "cuisine": "[\"Salvadoran\"]"
+  },
+  {
+    "restaurant_name": "Baroo",
+    "address": "1035 S La Brea Ave, Los Angeles, CA 90019",
+    "instagram": "@baroolosangeles",
+    "famous_for": "Tasting menu restaurants",
+    "location_tag": ["infatuationla", "#losangeles", "#EEEEEATS"],
+    "cuisine": "[\"Korean\"]"
+  },
+  {
+    "restaurant_name": "@etra.la",
+    "address": "2425 Glendale Blvd, Los Angeles, CA 90039",
+    "instagram": "@etra.la",
+    "famous_for": "",
+    "location_tag": ["Silverlake"],
+    "cuisine": "[\"Ethiopian\"]"
+  },
+  {
+    "restaurant_name": "Arko Foods",
+    "address": "2700 Glendale Blvd, Los Angeles, CA 90039",
+    "instagram": "@arkofoods",
+    "famous_for": "Turo-turo hot food counter with dozens of trays",
+    "location_tag": ["infatuationla #Silverlake"],
+    "cuisine": "[\"Filipino\"]"
+  },
+  {
+    "restaurant_name": "@goldlinebar",
+    "address": "1455 Silver Lake Blvd, Los Angeles, CA 90026",
+    "instagram": "@goldlinebar",
+    "famous_for": "not specified, but likely a fun night out",
+    "location_tag": ["Elysian Park"],
+    "cuisine": "[\"American\"]"
+  },
+  {
+    "restaurant_name": "Infatuation LA",
+    "address": "1455 Abbot Kinney Blvd, Venice, CA 90291",
+    "instagram": "infatuationla",
+    "famous_for": "Filipino food and wine bars with lechon",
+    "location_tag": ["turo-turo"],
+    "cuisine": "[\"Filipino\"]"
+  },
+  {
+    "restaurant_name": "Famous Dave's Deli",
+    "address": "2455 Glendale Blvd, Silver Lake, Los Angeles, CA 90039",
+    "instagram": "@factorsfamousdeli",
+    "famous_for": "Classic deli items",
+    "location_tag": "#SilverLake",
+    "cuisine": "[\"Jewish-American Deli-style\"]"
+  },
+  {
+    "restaurant_name": "Loreto Frogtown",
+    "address": "1143 W Colorado St, Los Angeles, CA 90026",
+    "instagram": "@loreto_frogtown",
+    "famous_for": "exceptional seafood dishes that strike the perfect balance between tradition and creativity",
+    "location_tag": ["Frogtown"],
+    "cuisine": "[\"Seafood\"]"
+  },
+  {
+    "restaurant_name": "barchelou",
+    "address": "1234 E Colorado Blvd, Pasadena, CA 91106",
+    "instagram": "barchelou",
+    "famous_for": "Upscale French bistro",
+    "location_tag": ["pasadena", "#larestaurants"],
+    "cuisine": "[\"French\"]"
+  },
+  {
+    "restaurant_name": "barrasantosla",
+    "address": "5555 Melrose Ave, Los Angeles, CA 90038",
+    "instagram": "@barrasantosla",
+    "famous_for": "Portuguese cuisine and memorable night out",
+    "location_tag": ["losangeles", "larestaurants"],
+    "cuisine": "[\"Portuguese\"]"
+  },
+  {
+    "restaurant_name": "Birrieria Apatzingan",
+    "address": "2215 E Cesar Chavez Ave, Los Angeles, CA 90033",
+    "instagram": "",
+    "famous_for": "goat birria",
+    "location_tag": ["infatuationla", "losangeles", "larestuarants"],
+    "cuisine": "[\"Mexican\", \"Birria-specific\"]"
+  },
+  {
+    "restaurant_name": "The Ruby Fruit",
+    "address": "12345 Santa Monica Blvd, West Hollywood, CA 90025",
+    "instagram": "@therubyfruit",
+    "famous_for": "Co-working lunches and wine nights",
+    "location_tag": ["infatuationla", "larestaurants", "EEEEEATS"],
+    "cuisine": "[None]"
+  },
+  {
+    "restaurant_name": "BudonokiLA and Justine's Wine Bar",
+    "address": "2915 Main St, Santa Monica, CA 90405",
+    "instagram": "@budonokila, @justineswinebar",
+    "famous_for": "All-vegan menu",
+    "location_tag": ["infatuationla", "#Silverlake"],
+    "cuisine": "[\"Japanese\", \"All-Vegan\"]"
+  },
+  {
+    "restaurant_name": "@ladolcevitabevhills",
+    "address": "455 N Beverly Dr, Beverly Hills, CA 90210",
+    "instagram": "@ladolcevitabevhills",
+    "famous_for": "",
+    "location_tag": ["BevHills"],
+    "cuisine": "[\"Italian\"]"
+  },
+  {
+    "restaurant_name": "Playa Provisions",
+    "address": "434 Culver Blvd, Playa del Rey, CA 90293",
+    "instagram": "@playaprovisions",
+    "famous_for": "Seafood",
+    "location_tag": ["Playa Del Rey"],
+    "cuisine": "[\"Seafood-focused American\"]"
+  },
+  {
+    "restaurant_name": "@gingergrassminimart",
+    "address": "4023 Sunset Blvd, Silver Lake, Los Angeles, CA 90029",
+    "instagram": "@gingergrassminimart",
+    "famous_for": "delicious meal",
+    "location_tag": ["Silverlake"],
+    "cuisine": "[\"Asian-Fusion\"]"
+  },
+  {
+    "restaurant_name": "Legreat Outdoor",
+    "address": "1234 Venice Blvd, Los Angeles, CA 90019",
+    "instagram": "@legreatoutdoor",
+    "famous_for": "Wine and unique dining experience",
+    "location_tag": [
+      "infatuationla",
+      "#bnr2023",
+      "losangeles",
+      "larestaurants"
+    ],
+    "cuisine": "[]"
+  },
+  {
+    "restaurant_name": "Donna's",
+    "address": "1234 West Pico Boulevard, Los Angeles, CA 90015",
+    "instagram": "@donnas_ep",
+    "famous_for": "Italian American revamps",
+    "location_tag": [
+      "infatuationla",
+      "#losangeles",
+      "#larestaurants",
+      "EEEEEATS"
+    ],
+    "cuisine": "[\"Italian-American\"]"
+  },
+  {
+    "restaurant_name": "Sushi Note Omakase",
+    "address": "1205 Lincoln Blvd, Santa Monica, CA 90401",
+    "instagram": "@sushinotela",
+    "famous_for": "excellent wine and nigiri parade",
+    "location_tag": ["infatuationla", "EEEEEATS"],
+    "cuisine": "[\"Japanese\", \"Sushi\"]"
+  },
+  {
+    "restaurant_name": "Calic Bagel",
+    "address": "1555 Echo Park Ave, Los Angeles, CA 90026",
+    "instagram": "@calicbagel @_memorylook",
+    "famous_for": "Bagels and Lattes",
+    "location_tag": "#EchoPark #LArivera",
+    "cuisine": "[\"Bagel/Jewish Deli/International (with a Cali twist)\"]"
+  },
+  {
+    "restaurant_name": "Amiga Amore",
+    "address": "14451 Ventura Blvd, Sherman Oaks, CA 91403",
+    "instagram": "@amigaamorela",
+    "famous_for": "Mexican-Italian hybrids",
+    "location_tag": ["losangeles", "larestaurants", "infatuationla"],
+    "cuisine": "[\"Mexican-Italian hybrids\"]"
+  },
+  {
+    "restaurant_name": "Tacos los cholos",
+    "address": "1231 N Hoover St, Los Angeles, CA 90010",
+    "instagram": "@tacosloscholos_",
+    "famous_for": "Tacos",
+    "location_tag": ["infatuationla"],
+    "cuisine": "[\"Mexican\"]"
+  },
+  {
+    "restaurant_name": "liuscafe",
+    "address": "1110 S Broadway, Los Angeles, CA 90015",
+    "instagram": "liuscafe",
+    "famous_for": "quick and affordable lunch",
+    "location_tag": ["infatuationla", "#losangeles"],
+    "cuisine": "[\"Western\", \"Casual/Effortless\"]"
+  },
+  {
+    "restaurant_name": "Baar Baar Los Angeles",
+    "address": "2121 W Sunset Blvd, Los Angeles, CA 90026",
+    "instagram": "@baarbaarlosangeles",
+    "famous_for": "Drinks that deserve special recognition",
+    "location_tag": ["Mirate.losangeles", "Silverlake"],
+    "cuisine": "[\"Indian\"]"
+  },
+  {
+    "restaurant_name": "Shirube",
+    "address": "2110 Main St, Santa Monica, CA 90405",
+    "instagram": "@shirube_santamonica",
+    "famous_for": "izakaya with small plates and a wide selection of beer and sake",
+    "location_tag": ["Santa Monica"],
+    "cuisine": "[\"Japanese\"]"
+  },
+  {
+    "restaurant_name": "Antico Nuovo",
+    "address": "8555 Santa Monica Blvd, West Hollywood, CA 90069",
+    "instagram": "@anticonuovo___la",
+    "famous_for": "understated cooking that screams quiet luxury",
+    "location_tag": ["West Hollywood"],
+    "cuisine": "[None]"
+  },
+  {
+    "restaurant_name": "Rincon Chileno",
+    "address": "2445 Glendale Blvd, Los Angeles, CA 90039",
+    "instagram": "",
+    "famous_for": "great empanadas and thoughtful, delicious food",
+    "location_tag": "#infatuationla #SilverLake",
+    "cuisine": "[\"Chilean\"]"
+  },
+  {
+    "restaurant_name": "Little Ethiopia",
+    "address": "11155 Venice Blvd, Los Angeles, CA 90066",
+    "instagram": "",
+    "famous_for": "Ethiopian coffee, doro wot",
+    "location_tag": ["LittleEthiopia", "infatuationla"],
+    "cuisine": "[\"Ethiopian\"]"
+  },
+  {
+    "restaurant_name": "@nomadvegas",
+    "address": "1111 Las Vegas Blvd S #2100, The Strip, Las Vegas, NV 89104",
+    "instagram": "@nomadvegas",
+    "famous_for": "farm-to-table dishes prepared by Michelin-starred restaurant @richtable",
+    "location_tag": ["@TheStrip", "DowntownLasVegas"],
+    "cuisine": "[ \"Modern American\" ]"
+  },
+  {
+    "restaurant_name": "Zhengyao Hatz",
+    "address": "1455 E Colorado St, Glendale, CA 91205",
+    "instagram": "@zhengyalov_hatz_glendale",
+    "famous_for": "Meals under $15",
+    "location_tag": ["#infatuationla", "#Glendale"],
+    "cuisine": "[\"Szechuan\", \"Chinese\"]"
+  },
+  {
+    "restaurant_name": "American Girl Cafe",
+    "address": "1055 S Main St, Los Angeles, CA 90015",
+    "instagram": "",
+    "famous_for": "Themed dining setting with American Girl dolls",
+    "location_tag": ["Silverlake", "Echo Park"],
+    "cuisine": "[\"American\", \"Children's\"]"
+  },
+  {
+    "restaurant_name": "Dudley Market",
+    "address": "1235 Abbot Kinney Blvd, Venice, CA 90291",
+    "instagram": "@dudleymarketvenice",
+    "famous_for": "cool seafood dinner",
+    "location_tag": ["venicebeach"],
+    "cuisine": "[\"Seafood\", \"California Coastal\"]"
+  },
+  {
+    "restaurant_name": "@woonkitchen",
+    "address": "1234 S San Pedro St #200, Los Angeles, CA 90015",
+    "instagram": "@woonkitchen",
+    "famous_for": "convenient, delicious, and fun",
+    "location_tag": "#infatuationla #losangeles",
+    "cuisine": "[None]"
+  },
+  {
+    "restaurant_name": "Furn's AJ Bakery",
+    "address": "1234 S Fairfax Ave, Los Angeles, CA 90019",
+    "instagram": "@furnsajbakery",
+    "famous_for": "most menu items cost less than $15",
+    "location_tag": ["infatuationla", "#losangeles", "#larestaurants"],
+    "cuisine": "[\"Middle Eastern\", \"Levantine\"]"
+  },
+  {
+    "restaurant_name": "106 Underground Seafood",
+    "address": "2400 Glendale Blvd, Silver Lake, Los Angeles, CA 90039",
+    "instagram": "infatuationla",
+    "famous_for": "unforgettable mariscos meal",
+    "location_tag": ["#SilverLake"],
+    "cuisine": "[\"Mexican\", \"Mariscos\"]"
+  },
+  {
+    "restaurant_name": "BoriT Gogae Kfood",
+    "address": "3455 W 6th St, Los Angeles, CA 90020",
+    "instagram": "@borit_gogae_kfood",
+    "famous_for": "Veggie-forward banchan (Korean side dishes)",
+    "location_tag": ["koreatown"],
+    "cuisine": "[\"Korean\"]"
+  },
+  {
+    "restaurant_name": "Loreto",
+    "address": "1425 Colorado Blvd, Los Angeles, CA 90041",
+    "instagram": "@loreto_frogtown",
+    "famous_for": "Mexican-seafood fusion",
+    "location_tag": ["Elysian Valley", "Frogtown"],
+    "cuisine": "[\"Mexican-Seafood\"]"
+  },
+  {
+    "restaurant_name": "Mandarin Coffee Stand",
+    "address": "1235 S Fair Oaks Ave, Pasadena, CA 91105",
+    "instagram": "@mandarincoffeestand",
+    "famous_for": "legitimately good drinks",
+    "location_tag": ["pasadena"],
+    "cuisine": "[\"Coffee Shop/Cafe\"]"
+  },
+  {
+    "restaurant_name": "FFLLUUUFFFFYYYYSSSS and Harucake_",
+    "address": "2814 W Sunset Blvd, Los Angeles, CA 90026",
+    "instagram": "@fflluuuffffyyyyssss and @harucake_",
+    "famous_for": "Lactaid vending machine and sweet corn lattes going viral",
+    "location_tag": "#infatuationla #Silverlake",
+    "cuisine": "[\"Fusion\"]"
+  },
+  {
+    "restaurant_name": "_perilla.la",
+    "address": "2910 Main St, Silver Lake, CA 90031",
+    "instagram": "_perilla.la",
+    "famous_for": "serving banchan in the sunshine",
+    "location_tag": ["Silverlake"],
+    "cuisine": "[\"Korean\"]"
+  },
+  {
+    "restaurant_name": "Shin's Pizza",
+    "address": "1143 E Cypress St, Fresno, CA 93626",
+    "instagram": "@shinspizza",
+    "famous_for": "Inventive pizza slices",
+    "location_tag": ["Cypress Park"],
+    "cuisine": "[\"Italian/Pizza\"]"
+  },
+  {
+    "restaurant_name": "Phnom Penh Noodle Shack",
+    "address": "1237 E Colorado Blvd, Pasadena, CA 91106",
+    "instagram": "@phnompenhnoodleshack",
+    "famous_for": "Long Beach institution known for its high rating and recognition as one of the Best Restaurants in LA",
+    "location_tag": ["infatuationla", "#larestaurants"],
+    "cuisine": "[\"Cambodian\"]"
+  },
+  {
+    "restaurant_name": "Pollo A La Brasa",
+    "address": "1234 W Pico Blvd, Los Angeles, CA 90015",
+    "instagram": "infatuationla",
+    "famous_for": "affordable and delicious meals under $15",
+    "location_tag": ["larestaurants", "losangeles"],
+    "cuisine": "[Latin American]"
+  },
+  {
+    "restaurant_name": "cafenido. la",
+    "address": "2723 W Sunset Blvd, Los Angeles, CA 90026",
+    "instagram": "@cafenido. la",
+    "famous_for": "possibly the most stunning cafe in LA",
+    "location_tag": ["#silverlake"],
+    "cuisine": "[ \"Coffee Shop\" ]"
+  },
+  {
+    "restaurant_name": "715 Sushi",
+    "address": "715 Sushi\n1440 Abbot Kinney Blvd, Venice, CA 90291",
+    "instagram": "@715sushi",
+    "famous_for": "Sushi Omakase",
+    "location_tag": ["infatuationla", "#losangeles"],
+    "cuisine": "[\"Japanese\"]"
+  },
+  {
+    "restaurant_name": "infatuation",
+    "address": "2115 Griffith Park Blvd, Los Angeles, CA 90026",
+    "instagram": "infatuation",
+    "famous_for": "walk-in friendly restaurants",
+    "location_tag": ["Silverlake", "LA"],
+    "cuisine": "[\"American\"]"
+  },
+  {
+    "restaurant_name": "Tacos Luera",
+    "address": "1231 E Cesar Chavez Ave, Los Angeles, CA 90012",
+    "instagram": "@tacoslarueda",
+    "famous_for": "Sonoran-style tacos with flour tortilla and smoky meat",
+    "location_tag": ["ElysianValley", "HighlandPark"],
+    "cuisine": "[\"Mexican\", \"Sonoran-Style\"]"
+  },
+  {
+    "restaurant_name": "@damiandtla",
+    "address": "2915 W Sunset Blvd, Los Angeles, CA 90026",
+    "instagram": "@damiandtla",
+    "famous_for": "Mexican classics and Baja seafood dishes treated like custom couture",
+    "location_tag": ["Silverlake", "Los Feliz"],
+    "cuisine": "[\"Mexican\", \"Baja Seafood\"]"
+  },
+  {
+    "restaurant_name": "Simply put",
+    "address": "2501 W Pico Blvd, Los Angeles, CA 90006",
+    "instagram": "@elf_losangeles",
+    "famous_for": "revamped, versatile Mediterranean restaurant",
+    "location_tag": ["echopark"],
+    "cuisine": "[\"Mediterranean\"]"
+  },
+  {
+    "restaurant_name": "Funke LA",
+    "address": "9644 S Santa Monica Blvd, Beverly Hills, CA 90212",
+    "instagram": "@funke_la",
+    "famous_for": "Toughest reservations in LA",
+    "location_tag": ["beverlyhills", "losangeles"],
+    "cuisine": "[German]"
+  },
+  {
+    "restaurant_name": "pigyarestaurant",
+    "address": "3550 W Olympic Blvd, Los Angeles, CA 90006",
+    "instagram": "@pigyarestaurant",
+    "famous_for": "big on pork",
+    "location_tag": ["Koreatown"],
+    "cuisine": "[Korean]"
+  },
+  {
+    "restaurant_name": "Muelle8",
+    "address": "12041 Imperial Hwy, Downey, CA 90242",
+    "instagram": "@muelle8la",
+    "famous_for": "Serving a tostada with shrimp aguachile doused in charred salsa verde",
+    "location_tag": ["downey", "#larestaurant"],
+    "cuisine": "[Mexican]"
+  },
+  {
+    "restaurant_name": "@bar.coucou",
+    "address": "1234 Abbot Kinney Blvd, Venice, CA 90291",
+    "instagram": "@bar.coucou",
+    "famous_for": "perfect martini and French bistro ambiance",
+    "location_tag": ["Venice", "#infatuationla"],
+    "cuisine": "[\"French Bistro\"]"
+  },
+  {
+    "restaurant_name": "Tigres Fuego",
+    "address": "2345 N San Fernando Rd, Los Angeles, CA 90065",
+    "instagram": "@tigresfuego",
+    "famous_for": "Breakfast Burritos",
+    "location_tag": ["#infatuationla #EEEEEATS"],
+    "cuisine": "[\"Mexican\"]"
+  },
+  {
+    "restaurant_name": "Lady and Larder",
+    "address": "2500 Main St, Santa Monica, CA 90405",
+    "instagram": "@ladyandlarder",
+    "famous_for": "The sandwich of the summer",
+    "location_tag": ["infatuationla", "#santamonica", "#EEEEEATS"],
+    "cuisine": "[\"French-Italian Inspired Deli Style\"]"
+  },
+  {
+    "restaurant_name": "Hanshin Pocha",
+    "address": "3025 W Olympic Blvd, Los Angeles, CA 90006",
+    "instagram": "",
+    "famous_for": "spicy stir-fried chicken feet",
+    "location_tag": ["Koreatown", "Los Angeles"],
+    "cuisine": "[\"Korean\"]"
+  },
+  {
+    "restaurant_name": "Handy Market Burbank",
+    "address": "2424 W Magnolia Blvd, Burbank, CA 91506",
+    "instagram": "@handymarketburbank",
+    "famous_for": "BBQ wonderland with various meats and sides",
+    "location_tag": ["burbank", "#infatuationla"],
+    "cuisine": "[\"American BBQ\"]"
+  },
+  {
+    "restaurant_name": "Sunday Gravy",
+    "address": "1050 S La Brea Ave, Inglewood, CA 90301",
+    "instagram": "@sunday.gravy",
+    "famous_for": "Italian American classics",
+    "location_tag": ["Inglewood"],
+    "cuisine": "[\"Italian-American\"]"
+  },
+  {
+    "restaurant_name": "Voodoo Vin",
+    "address": "2424 Glendale Blvd, Los Angeles, CA 90039",
+    "instagram": "",
+    "famous_for": "wine bar",
+    "location_tag": ["Silver Lake", "#infatuationla #EEEEEATS"],
+    "cuisine": "[\"French-inspired American\", \"Wine Bar\"]"
+  },
+  {
+    "restaurant_name": "Le Great Outdoor",
+    "address": "1234 Wilshire Blvd, Santa Monica, CA 90401",
+    "instagram": "@legreatoutdoor",
+    "famous_for": "Garden-party-like atmosphere and grilling skills",
+    "location_tag": ["santamonica", "losangeles"],
+    "cuisine": "[None]"
+  },
+  {
+    "restaurant_name": "endlesscolorpizza",
+    "address": "1623 Topanga Canyon Blvd, Topanga, CA 90290",
+    "instagram": "@endlesscolorpizza",
+    "famous_for": "quirky pizzeria",
+    "location_tag": ["Topanga Canyon"],
+    "cuisine": "[Italian]"
+  },
+  {
+    "restaurant_name": "queenstla",
+    "address": "2420 Hillhurst Ave, Los Angeles, CA 90027",
+    "instagram": "queenstla",
+    "famous_for": "art of the 'what's the rush?' dinner",
+    "location_tag": ["infatuationla", "#SilverLake"],
+    "cuisine": "[ \"American\" ]"
+  },
+  {
+    "restaurant_name": "The Ruby Fruit",
+    "address": "3415 W Sunset Blvd, Los Angeles, CA 90026",
+    "instagram": "",
+    "famous_for": "excellent comfort food",
+    "location_tag": ["Silver Lake"],
+    "cuisine": "[\"American Comfort Food\"]"
+  },
+  {
+    "restaurant_name": "Yuchun LA",
+    "address": "3050 W Olympic Blvd, Los Angeles, CA 90006",
+    "instagram": "@yuchunla",
+    "famous_for": "refreshing, cold naengmyeon",
+    "location_tag": ["Koreatown"],
+    "cuisine": "[\"Korean\"]"
+  },
+  {
+    "restaurant_name": "Infatuation LA",
+    "address": "123 W 4th St, Los Angeles, CA 90013",
+    "instagram": "infatuationla",
+    "famous_for": "Food recommendations in Los Angeles",
+    "location_tag": [],
+    "cuisine": "[\"American\"]"
+  },
+  {
+    "restaurant_name": "Erewhon",
+    "address": "8805 W 3rd St, Los Angeles, CA 90048",
+    "instagram": "erewhon",
+    "famous_for": "irrefutable ranking of every store based on parking, aisle configurations, and customer experience",
+    "location_tag": ["infatuationla", "#losangeles"],
+    "cuisine": "[None]"
+  },
+  {
+    "restaurant_name": "Loreto's",
+    "address": "1435 Colorado Blvd, Los Angeles, CA 90041",
+    "instagram": "@loreto_frogtown",
+    "famous_for": "Butterflied whole fish with rice, beans, salsas, and quesadillas",
+    "location_tag": ["#Frogtown", "#infatuationla"],
+    "cuisine": "[\"Mexican\"]"
+  },
+  {
+    "restaurant_name": "Barranca",
+    "address": "2600 Main St, Santa Monica, CA 90405",
+    "instagram": "@barrasantosla",
+    "famous_for": "garlicky prawns with chilled vinho verde",
+    "location_tag": ["Santa Monica"],
+    "cuisine": "[\"Portuguese\"]"
+  },
+  {
+    "restaurant_name": "Levain Bakery",
+    "address": "235 N Larchmont Blvd, Los Angeles, CA 90004",
+    "instagram": "@levainbakery",
+    "famous_for": "Hockey puck-sized cookies",
+    "location_tag": ["#infatuationla", "#losangeles", "#Silverlake"],
+    "cuisine": "[Bakery]"
+  },
+  {
+    "restaurant_name": "Loreto",
+    "address": "1424 Charles Ave, St Paul, MN 55105",
+    "instagram": "@loreto_frogtown",
+    "famous_for": "exceptional seafood dishes that strike the perfect balance between tradition and creativity",
+    "location_tag": ["Frogtown"],
+    "cuisine": "[\"Seafood-focused American\"]"
+  },
+  {
+    "restaurant_name": "Moos Craft Barbecue",
+    "address": "1233 E 7th Pl, Los Angeles, CA 90021",
+    "instagram": "@mooscraftbarbecue",
+    "famous_for": "Burgers",
+    "location_tag": ["infatuationla", "#losangeles"],
+    "cuisine": "[\"American BBQ\"]"
+  },
+  {
+    "restaurant_name": "Mariscos ZaZa",
+    "address": "Via Gaggianiga, 2201, San Polo, 30125 Venice, Italy",
+    "instagram": "mariscos_zazaza",
+    "famous_for": "Salty, spicy, and mouthwateringly fresh seafood cocteles",
+    "location_tag": ["Venice"],
+    "cuisine": "[\"Mexican\", \"Seafood\"]"
+  },
+  {
+    "restaurant_name": "Lingua Franca Restaurant",
+    "address": "1140 King St, Alexandria, VA 22314",
+    "instagram": "@linguafrancarestaurant",
+    "famous_for": "smoked trout dip and orange wine",
+    "location_tag": ["Fairfax"],
+    "cuisine": "[\"Modern American\"]"
+  },
+  {
+    "restaurant_name": "Infatuation LA",
+    "address": "2500 Main St, Santa Monica, CA 90405",
+    "instagram": "infatuationla",
+    "famous_for": "Curated dining experiences and hacks",
+    "location_tag": ["#SantaMonica"],
+    "cuisine": "[\"American\"]"
+  },
+  {
+    "restaurant_name": "Sweet Rose Creamery",
+    "address": "2421 Main St, Santa Monica, CA 90405",
+    "instagram": "@sweetrosecreamery",
+    "famous_for": "White chocolate rainbow pudding pops",
+    "location_tag": ["Santamonica", "EEEEEATS"],
+    "cuisine": "[\"Dessert\", \"American\"]"
+  },
+  {
+    "restaurant_name": "Huck Cafe",
+    "address": "2901 Main St, Santa Monica, CA 90405",
+    "instagram": "@huckcafe",
+    "famous_for": "Comfort food",
+    "location_tag": ["Santa Monica", "#santamonica"],
+    "cuisine": "[\"American Comfort Food\"]"
+  },
+  {
+    "restaurant_name": "Coolhaus",
+    "address": "840 S La Brea Ave, West Hollywood, CA 90048",
+    "instagram": "@coolhaus",
+    "famous_for": "Creative ice cream flavors with unique mix-ins",
+    "location_tag": ["infatuationla", "losangeles"],
+    "cuisine": "[\"American\"]"
+  },
+  {
+    "restaurant_name": "eatpoltergeist",
+    "address": "1234 N Highland Ave, Los Angeles, CA 90038",
+    "instagram": "@eatpoltergeist",
+    "famous_for": "Experimental barcade combinations",
+    "location_tag": ["infatuationla", "#losangeles"],
+    "cuisine": "[\"American\", \"Experimental/Fusion\"]"
+  },
+  {
+    "restaurant_name": "Two Hommés",
+    "address": "555 W Artesia Blvd, Gardena, CA 90248",
+    "instagram": "@twohommes",
+    "famous_for": "Afro-Latin comfort food",
+    "location_tag": ["inglewood", "#infatuationla #EEEEEATS"],
+    "cuisine": "[\"Afro-Latin comfort food\"]"
+  },
+  {
+    "restaurant_name": "Just What I Kneaded",
+    "address": "5555 Melrose Ave, Los Angeles, CA 90038",
+    "instagram": "@justwhatIkneaded.la",
+    "famous_for": "gluten-free and vegan baked goods",
+    "location_tag": ["losangeles", "EEEEEATS"],
+    "cuisine": "[ \"American\" ]"
+  },
+  {
+    "restaurant_name": "Huck Cafe",
+    "address": "1415 Lincoln Blvd, Santa Monica, CA 90401",
+    "instagram": "@huckcafe",
+    "famous_for": "Pastries, including glazed rainbow brioche donut",
+    "location_tag": ["Santa Monica", "#infatuationla #EEEEEATS"],
+    "cuisine": "[\"American\", \"Pastry\"]"
+  },
+  {
+    "restaurant_name": "Sweet Rose Creamery",
+    "address": "1415 Wilshire Blvd, Santa Monica, CA 90401",
+    "instagram": "@sweetrosecreamery",
+    "famous_for": "unique pudding pops and partnering with the Queer Food Foundation",
+    "location_tag": ["santamonica"],
+    "cuisine": "[\"Dessert\", \"Creamery\"]"
+  },
+  {
+    "restaurant_name": "La Dolce Vita",
+    "address": "444 N Canon Dr, Beverly Hills, CA 90210",
+    "instagram": "@ladolcevitabevhills",
+    "famous_for": "good food",
+    "location_tag": ["#BeverlyHills", "#infatuationla"],
+    "cuisine": "[\"Italian\"]"
+  },
+  {
+    "restaurant_name": "Monarchs",
+    "address": "123 W Duarte Rd, Arcadia, CA 91007",
+    "instagram": "@monarchsgv",
+    "famous_for": "Twists on Cantonese cuisine",
+    "location_tag": ["sangabrielvalley", "arcadia"],
+    "cuisine": "[\"Cantonese\"]"
+  },
+  {
+    "restaurant_name": "infatuation la",
+    "address": "2810 W Sunset Blvd, Los Angeles, CA 90026",
+    "instagram": "infatuationla",
+    "famous_for": "last-minute tickets for food events",
+    "location_tag": ["#Silverlake"],
+    "cuisine": "[None]"
+  },
+  {
+    "restaurant_name": "Shake Shack",
+    "address": "2222 W 6th St, Los Angeles, CA 90006",
+    "instagram": "@shakeshack",
+    "famous_for": "Incredible burgers and dishes",
+    "location_tag": ["7th Street"],
+    "cuisine": "[\"American\", \"Fast Food\"]"
+  },
+  {
+    "restaurant_name": "Shappy Pretzel",
+    "address": "3555 W Magnolia Blvd, Burbank, CA 91505",
+    "instagram": "@shappypretzel",
+    "famous_for": "soft pretzels that are chewy yet crisp, moist but never soggy",
+    "location_tag": ["#infatuationla", "#losangeles"],
+    "cuisine": "[\"German-American\"]"
+  },
+  {
+    "restaurant_name": "Won Kok",
+    "address": "1420 S China Pl, Portland, OR 97201",
+    "instagram": "@wonkokla",
+    "famous_for": "steamed buns, sesame balls, and yellow custards",
+    "location_tag": ["lachinatown", "#chinatown"],
+    "cuisine": "[\"Chinese\", \"Dim Sum\"]"
+  },
+  {
+    "restaurant_name": "In-N-Out",
+    "address": "12321 W Imperial Hwy, Ste A108, Baldwin Park, CA 91706",
+    "instagram": "",
+    "famous_for": "Burgers and personal orders",
+    "location_tag": ["infatuationla", "innout"],
+    "cuisine": "[\"American\", \"Fast Food\"]"
+  },
+  {
+    "restaurant_name": "Bar Chelou",
+    "address": "555 S Arroyo Pkwy, Pasadena, CA 91105",
+    "instagram": "@barchelou",
+    "famous_for": "spectacular food",
+    "location_tag": ["pasadena", "#larestaurants", "#eeeeeats"],
+    "cuisine": "[\"Middle Eastern/Greek\"]"
+  },
+  {
+    "restaurant_name": "The Butcher's Daughter",
+    "address": "1424 Abbot Kinney Blvd, Venice, CA 90291",
+    "instagram": "thebutchersdaughter",
+    "famous_for": "weekday brunch deal for $28",
+    "location_tag": ["infatuationla", "#losangeles #labrunch"],
+    "cuisine": "[\"Australian\", \"California-Fusion\", \"Farm-to-Table\", \"New American\"]"
+  },
+  {
+    "restaurant_name": "@ponchostlayudas",
+    "address": "1235 Abbot Kinney Blvd, Venice, CA 90291",
+    "instagram": "@ponchostlayudas",
+    "famous_for": "The strips of tasajo (cured steak) and sliced moronga (Oaxacan blood sausage)",
+    "location_tag": ["infatuationla", "#venicebeach"],
+    "cuisine": "[\"Mexican\", \"Oaxacan\"]"
+  },
+  {
+    "restaurant_name": "Awan",
+    "address": "840 S Alameda St, Los Angeles, CA 90021",
+    "instagram": "@enjoy.awan",
+    "famous_for": "refreshing flavors like valencia orange, lemongrass, and rhubarb pie",
+    "location_tag": ["infatuationla", "#losangeles"],
+    "cuisine": "[\"Contemporary American\", \"Innovative Desserts\"]"
+  },
+  {
+    "restaurant_name": "Juliet",
+    "address": "12345 Santa Monica Blvd, Culver City, CA 90232",
+    "instagram": "#infatuationla",
+    "famous_for": "Food that tastes as good as it looks",
+    "location_tag": ["culvercity", "larestaurants"],
+    "cuisine": "[\"Modern French-inspired\"]"
+  },
+  {
+    "restaurant_name": "Shake Shack x Found Oyster",
+    "address": "1600 Rosecrans St #5, San Diego, CA 92154",
+    "instagram": "@shakeshack @foundoyster @giovannistiramisu",
+    "famous_for": "Exclusive collab sandwich and dessert",
+    "location_tag": ["Barker Hangar", "#infatuationla"],
+    "cuisine": "[\"American\", \"Fast Food\"]"
+  },
+  {
+    "restaurant_name": "My Dung",
+    "address": "123 W Alameda St, Los Angeles, CA 90012",
+    "instagram": "",
+    "famous_for": "straightforward bánh mì at an unbeatable price",
+    "location_tag": ["lachinatown", "larestaurants"],
+    "cuisine": "[\"Vietnamese\"]"
+  },
+  {
+    "restaurant_name": "Niku X",
+    "address": "123 W 4th St, Los Angeles, CA 90013",
+    "instagram": "",
+    "famous_for": "Refined yakiniku tasting menu with a $230 price tag",
+    "location_tag": ["infatuationla"],
+    "cuisine": "[\"Japanese\", \"Yakiniku\"]"
+  },
+  {
+    "restaurant_name": "Erewhon",
+    "address": "8500 Beverly Blvd, Los Angeles, CA 90048",
+    "instagram": "erewhonmarket",
+    "famous_for": "Overpriced smoothies and hot bar meals",
+    "location_tag": ["infatuationla", "#eeeeeats"],
+    "cuisine": "[\"American\", \"Gourmet Grocery Store\"]"
+  },
+  {
+    "restaurant_name": "Corridor 109",
+    "address": "967 N Broadway, Los Angeles, CA 90012",
+    "instagram": "@corridor109",
+    "famous_for": "fine dining experiences",
+    "location_tag": ["Chinatown", "LA"],
+    "cuisine": "[\"Asian Fusion\"]"
+  },
+  {
+    "restaurant_name": "Howlin Rays",
+    "address": "727 S La Brea Ave, Los Angeles, CA 90036",
+    "instagram": "@howlinrays",
+    "famous_for": "Hot Chicken",
+    "location_tag": ["Silverlake"],
+    "cuisine": "[\"Southern American\", \"Fried Chicken\"]"
+  },
+  {
+    "restaurant_name": "Sycamore Kitchen",
+    "address": "2525 Michigan Ave #A4, Los Angeles, CA 90006",
+    "instagram": "",
+    "famous_for": "A dog-friendly spot with a big front patio",
+    "location_tag": ["Silverlake"],
+    "cuisine": "[ None ]"
+  },
+  {
+    "restaurant_name": "Rykn",
+    "address": "12345 Ventura Blvd, Studio City, CA 91604",
+    "instagram": "",
+    "famous_for": "Tea-garden-esque interior and unique features such as an in-ground tree in the dining room",
+    "location_tag": ["infatuationla", "#coffeeshop #losangeles"],
+    "cuisine": "[\"Coffee Shop\"]"
+  },
+  {
+    "restaurant_name": "Earle's",
+    "address": "Crenshaw",
+    "instagram": "",
+    "famous_for": "hot dogs and lunch counter food",
+    "location_tag": ["South LA", "Crenshaw"],
+    "cuisine": "[ \"American\" ]"
+  },
+  {
+    "restaurant_name": "Bang Bang Noodles",
+    "address": "11716 Washington Blvd, Culver City, CA 90230",
+    "instagram": "",
+    "famous_for": "Noodle options",
+    "location_tag": ["Culver"],
+    "cuisine": "[ \"Asian\", \"Noodle-based\" ]"
+  },
+  {
+    "restaurant_name": "Saucy Chick Rotisserie",
+    "address": "8424 W 3rd St, Los Angeles, CA 90048",
+    "instagram": "",
+    "famous_for": "big and bold flavors",
+    "location_tag": ["Beverly Grove"],
+    "cuisine": "[\"Mexican\"]"
+  },
+  {
+    "restaurant_name": "Colibri Popup",
+    "address": "Via Garibaldi, 1153, Venezia, VE 30122, Italy",
+    "instagram": "@colibripopup",
+    "famous_for": "good food, strong cocktails",
+    "location_tag": "#Venice",
+    "cuisine": "[\"Mexican\"]"
+  },
+  {
+    "restaurant_name": "Layla Bagels",
+    "address": "1715 Colorado Blvd, Los Angeles, CA 90041",
+    "instagram": "@laylabagels",
+    "famous_for": "delicious bagels piled high with the freshest produce available",
+    "location_tag": ["infatuationla", "#larestaurants"],
+    "cuisine": "[Jewish-American]"
+  },
+  {
+    "restaurant_name": "Cafe Basque",
+    "address": "123 Bethnal Green Road, Shoreditch, London E2 7DJ",
+    "instagram": "",
+    "famous_for": "romantically lit hotel bar with chilled drinks and good ambiance",
+    "location_tag": ["The Hoxton"],
+    "cuisine": "[\"French-Spanish\"]"
+  },
+  {
+    "restaurant_name": "Rustic Canyon",
+    "address": "2703 Main St, Santa Monica, CA 90405",
+    "instagram": "",
+    "famous_for": "farm-to-table cuisine",
+    "location_tag": ["santamonica", "#westside"],
+    "cuisine": "[\"Farm-to-Table American\"]"
+  },
+  {
+    "restaurant_name": "Thai Farm House",
+    "address": "2332 E Olympic Blvd, Los Angeles, CA 90021",
+    "instagram": "@thaifarmhouse",
+    "famous_for": "Large- format entrees and cocktails served in foot-high plastic crowns",
+    "location_tag": ["#infatuationla", "#farmhousekitchen", "#losangeles"],
+    "cuisine": "[\"Thai\"]"
+  },
+  {
+    "restaurant_name": "Flavors From Afar",
+    "address": "2150 NE Martin Luther King Jr Blvd, Portland, OR 97212",
+    "instagram": "@flavorsfromafar.co",
+    "famous_for": "homestyle warmth to their cooking",
+    "location_tag": ["#littleethiopia"],
+    "cuisine": "[\"Ethiopian\"]"
+  },
+  {
+    "restaurant_name": "Infatuation LA",
+    "address": "1717 Lincoln Blvd, Santa Monica, CA 90405",
+    "instagram": "infatuationla",
+    "famous_for": "Rainy day spots",
+    "location_tag": ["Santa Monica", "Venice"],
+    "cuisine": "[\"American\"]"
+  },
+  {
+    "restaurant_name": "Chef Marilyn's",
+    "address": "240 S Beverly Dr, Los Angeles, CA 90004",
+    "instagram": "chefmarilynsla",
+    "famous_for": "soul food",
+    "location_tag": ["larestaurants", "infatuationla"],
+    "cuisine": "[Southern]"
+  },
+  {
+    "restaurant_name": "Gwen",
+    "address": "5555 Melrose Avenue, Los Angeles, CA 90038",
+    "instagram": "",
+    "famous_for": "some of the best steaks and the best table bread in LA",
+    "location_tag": ["hollywood"],
+    "cuisine": "[\"Steakhouse\"]"
+  },
+  {
+    "restaurant_name": "Hollywood Shawarma",
+    "address": "1715 N Highland Ave, Hollywood, CA 90028",
+    "instagram": "",
+    "famous_for": "Shaved-from-the-spit shawarma",
+    "location_tag": ["hollywood"],
+    "cuisine": "[\"Middle Eastern\"]"
+  },
+  {
+    "restaurant_name": "Yang's Kitchen",
+    "address": "221 W Main St, Alhambra, CA 91801",
+    "instagram": "",
+    "famous_for": "Best New Restaurants list",
+    "location_tag": ["alhambra", "sangabrielvalley"],
+    "cuisine": "[\"Szechuan Chinese\"]"
+  },
+  {
+    "restaurant_name": "Broad Street Oyster Co",
+    "address": "5555 Sunset Blvd, Los Angeles, CA 90028",
+    "instagram": "@broadstreetoysterco",
+    "famous_for": "Lobster rolls",
+    "location_tag": ["Silverlake", "EchoPark"],
+    "cuisine": "[\"American\", \"Seafood\", \"New England-Style\"]"
+  },
+  {
+    "restaurant_name": "Lemon Grove",
+    "address": "11555 National Blvd, Los Angeles, CA 90064",
+    "instagram": "",
+    "famous_for": "scoring high on presentation and tastes as good as it looks",
+    "location_tag": ["hollywood", "losangeles"],
+    "cuisine": "[\"Californian\", \"Modern American\"]"
+  },
+  {
+    "restaurant_name": "Howlin' Ray's",
+    "address": "235 S Raymond Ave, Pasadena, CA 91105",
+    "instagram": "howlinrays",
+    "famous_for": "LA's borderline insatiable love for hot chicken",
+    "location_tag": ["pasadena"],
+    "cuisine": "[\"Southern American\", \"Nashville Hot Chicken\"]"
+  },
+  {
+    "restaurant_name": "Saffy's Coffee and Tea",
+    "address": "1234 W 3rd St, Los Angeles, CA 90017",
+    "instagram": "saffyscoffeeandtea",
+    "famous_for": "Arabic breakfast spread",
+    "location_tag": ["infatuationla", "losangeles"],
+    "cuisine": "[\"Arabic\"]"
+  },
+  {
+    "restaurant_name": "Infatuation LA",
+    "address": "10351 Santa Monica Blvd, Los Angeles, CA 90067",
+    "instagram": "infatuationla",
+    "famous_for": "food and a supportive environment for watching sports",
+    "location_tag": ["EchoPark"],
+    "cuisine": "[\"American\"]"
+  },
+  {
+    "restaurant_name": "Maison Matho",
+    "address": "2424 Wilshire Blvd, Los Angeles, CA 90057",
+    "instagram": "@maisonmatho",
+    "famous_for": "straightforward, high-quality fillings on baguettes that are baked in-house daily",
+    "location_tag": "#infatuationla #eeeeeats",
+    "cuisine": "[\"French\"]"
+  },
+  {
+    "restaurant_name": "The Let's Go!",
+    "address": "5555 17th St #102, Labars, #eeeeeats",
+    "instagram": "infatuationla",
+    "famous_for": "1970s-themed Italian disco bar",
+    "location_tag": ["labars", "#eeeeeats"],
+    "cuisine": "[\"Italian\"]"
+  },
+  {
+    "restaurant_name": "Selva",
+    "address": "1055 E Ocean Blvd, Long Beach, CA 90801",
+    "instagram": "@selva.lbc",
+    "famous_for": "smoked chicken",
+    "location_tag": ["longbeach", "#eeeeeats"],
+    "cuisine": "[\"Latin American\"]"
+  },
+  {
+    "restaurant_name": "Yuan's",
+    "address": "123 N Garfield Ave, Rosemead, CA 91770",
+    "instagram": "",
+    "famous_for": "fantastic broth",
+    "location_tag": ["rosemead"],
+    "cuisine": "[ \"Chinese\", \"Hot Pot\" ]"
+  },
+  {
+    "restaurant_name": "Omakase by Osen",
+    "address": "2815 W Sunset Blvd, Los Angeles, CA 90026",
+    "instagram": "",
+    "famous_for": "solid sushi spot",
+    "location_tag": ["silverlake"],
+    "cuisine": "[\"Japanese\", \"Sushi\"]"
+  },
+  {
+    "restaurant_name": "Infatuation LA",
+    "address": "2815 E Colorado Blvd, Pasadena, CA 91107",
+    "instagram": "#infatuationla",
+    "famous_for": "Favorite noodle soups in LA",
+    "location_tag": ["#SilverLake"],
+    "cuisine": "[\"Vietnamese\", \"Thai\", \"Laotian\"]"
+  },
+  {
+    "restaurant_name": "Dear Jane's",
+    "address": "2430 Main St, Santa Monica, CA 90405",
+    "instagram": "",
+    "famous_for": "nautical charm and beautiful presentation",
+    "location_tag": ["Marinadelrey", "Losangeles"],
+    "cuisine": "[\"Seafood/Shellfish-focused American\"]"
+  },
+  {
+    "restaurant_name": "Pocha",
+    "address": "5741 N Figueroa St, Los Angeles, CA 90042",
+    "instagram": "@pocha_losangeles",
+    "famous_for": "grabbing attention like a refreshing spot in Highland Park",
+    "location_tag": ["Highland Park"],
+    "cuisine": "[\"Mexican\"]"
+  },
+  {
+    "restaurant_name": "Gj's",
+    "address": "1401 Ocean Front Walk, Venice, CA 90291",
+    "instagram": "",
+    "famous_for": "casual spots for post-beach hangouts and fresh seafood.",
+    "location_tag": ["venicebeach"],
+    "cuisine": "[ \"Italian\" ]"
+  },
+  {
+    "restaurant_name": "Cobras and Matadors",
+    "address": "1050 S Fairfax Ave, Los Angeles, CA 90019",
+    "instagram": "@cobrasandmatadors",
+    "famous_for": "Spanish bistro",
+    "location_tag": ["#beverlygrove", "#losangeles"],
+    "cuisine": "[\"Spanish\"]"
+  },
+  {
+    "restaurant_name": "Jerusalem Chicken",
+    "address": "1455 Warden Ave, Windsor Hills",
+    "instagram": "@jerusalem_chicken",
+    "famous_for": "Their chicken dishes",
+    "location_tag": ["#windsorhills"],
+    "cuisine": "[\"Middle Eastern\"]"
+  },
+  {
+    "restaurant_name": "Cento Pasta Bar",
+    "address": "1415 Abbot Kinney Blvd, Venice, CA 90291",
+    "instagram": "@centopastabar",
+    "famous_for": "best pasta in LA",
+    "location_tag": ["#venicebeach", "#marvistrips"],
+    "cuisine": "[\"Italian\"]"
+  },
+  {
+    "restaurant_name": "Quarters Sheets",
+    "address": "1445 3rd St Promenade, Santa Monica, CA 90401",
+    "instagram": "@quartersheets",
+    "famous_for": "Best pizza",
+    "location_tag": ["losangeles"],
+    "cuisine": "[\"Italian-American\", \"Pizza\"]"
+  },
+  {
+    "restaurant_name": "Simón",
+    "address": "2712 W Pico Blvd, Los Angeles, CA 90006",
+    "instagram": "@simonfoodla",
+    "famous_for": "Nuanced, creative salsas and seafood tacos",
+    "location_tag": ["#silverlake", "#infatuationla"],
+    "cuisine": "[\"Mexican\"]"
+  },
+  {
+    "restaurant_name": "N/ Soto",
+    "address": "120 Judge John Aiso St, Los Angeles, CA 90012",
+    "instagram": "@nsotorestaurant",
+    "famous_for": "melting away stress",
+    "location_tag": ["Little Tokyo", "Arts District"],
+    "cuisine": "[\"Japanese\", \"Izakaya-style\"]"
+  },
+  {
+    "restaurant_name": "Pijja Palace",
+    "address": "2424 Glendale Blvd, Silver Lake, Los Angeles, CA 90039",
+    "instagram": "@pijjapalace",
+    "famous_for": "pure, unadulterated, slightly chaotic fun",
+    "location_tag": ["#silverlake"],
+    "cuisine": "[]"
+  },
+  {
+    "restaurant_name": "Tetetla",
+    "address": "2443 Glendale Blvd, Los Angeles, CA 90039",
+    "instagram": "@tetetla",
+    "famous_for": "chicken liver pâté",
+    "location_tag": ["Silverlake"],
+    "cuisine": "[\"French\"]"
+  },
+  {
+    "restaurant_name": "Bo. Re. Kas",
+    "address": "14555 Ventura Blvd, Sherman Oaks, CA 91403",
+    "instagram": "@bo.re.kas",
+    "famous_for": "Fungi, Onion, and Truffle Boureka",
+    "location_tag": ["Sherman Oaks"],
+    "cuisine": "[\"Sephardic Jewish\"]"
+  },
+  {
+    "restaurant_name": "Pizzeria Bianco",
+    "address": "2725 Colorado Blvd, Los Angeles, CA 90041",
+    "instagram": "@pizzeriabiancolosangeles",
+    "famous_for": "some of the best pizza in LA",
+    "location_tag": ["Silverlake", "EchoPark"],
+    "cuisine": "[\"Italian\", \"Neapolitan-Style Pizza\"]"
+  },
+  {
+    "restaurant_name": "Dunsmoor",
+    "address": "242 N San Fernando Rd, Los Angeles, CA 90031",
+    "instagram": "@dunsmoor.la",
+    "famous_for": "Roaring fire in the dining room",
+    "location_tag": ["Glassell Park"],
+    "cuisine": "[\"American\"]"
+  },
+  {
+    "restaurant_name": "Pearl River Deli",
+    "address": "550 S Spring St, Los Angeles, CA 90013",
+    "instagram": "@prd_la",
+    "famous_for": "Hainan chicken",
+    "location_tag": ["Chinatown"],
+    "cuisine": "[\"Chinese\", \"Cantonese\"]"
+  },
+  {
+    "restaurant_name": "Saffy's",
+    "address": "1435 3rd St Promenade, Santa Monica, CA 90401",
+    "instagram": "saffyslax",
+    "famous_for": "the thrill of eating here",
+    "location_tag": ["losangeles"],
+    "cuisine": "[\"Middle Eastern\"]"
+  },
+  {
+    "restaurant_name": "Ryla",
+    "address": "2915 Main St, Silver Lake, Los Angeles, CA 90031",
+    "instagram": "@eat_ryla",
+    "famous_for": "LA's Best New Restaurants of 2022",
+    "location_tag": "#infatuationla #Silverlake",
+    "cuisine": "[\"Japanese-Taiwanese\"]"
+  },
+  {
+    "restaurant_name": "NA",
+    "address": "Avda. Tulum-Los Barrakudas 1, Centro, 77780 Tulum, Q.R., Mexico",
+    "instagram": "InfatuationLA",
+    "famous_for": "New places that defined the year",
+    "location_tag": ["Tulum"],
+    "cuisine": "[]"
+  },
+  {
+    "restaurant_name": "Kuya Lord",
+    "address": "10250 Santa Monica Blvd, Los Angeles, CA 90067",
+    "instagram": "@kuyalord_la",
+    "famous_for": "LA's Best New Restaurants of 2022",
+    "location_tag": ["infatuationla", "#losangeles"],
+    "cuisine": "[Filipino]"
+  },
+  {
+    "restaurant_name": "@nsotorestaurant",
+    "address": "5555 Melrose Ave, Los Angeles, CA 90038",
+    "instagram": "@nsotorestaurant",
+    "famous_for": "Japanese food",
+    "location_tag": ["infatuationla", "larestaurants"],
+    "cuisine": "[\"Japanese\"]"
+  },
+  {
+    "restaurant_name": "Anajak Thai Food",
+    "address": "1231 S La Brea Ave, Los Angeles, CA 90019",
+    "instagram": "@anajakthaifood",
+    "famous_for": "Being the highest-rated restaurant on Infatuation since 2021",
+    "location_tag": ["infatuationla"],
+    "cuisine": "[\"Thai\"]"
+  },
+  {
+    "restaurant_name": "@maciels",
+    "address": "13455 Ventura Blvd, Sherman Oaks, CA 91423",
+    "instagram": "@maciels",
+    "famous_for": "Vegan sandwiches",
+    "location_tag": ["infatuationla", "losangeles", "eeeeeats"],
+    "cuisine": "[\"Mexican\"]"
+  },
+  {
+    "restaurant_name": "Infatuation LA",
+    "address": "1300 N Lammle St, Los Angeles, CA 90046",
+    "instagram": "infatuationla",
+    "famous_for": "Recovery food after a night out",
+    "location_tag": ["fairfaxvillage"],
+    "cuisine": "[\"American\"]"
+  },
+  {
+    "restaurant_name": "Pizzeria Bianco",
+    "address": "716 N Central Ave, Phoenix, AZ 85004",
+    "instagram": "@pizzeriabianco",
+    "famous_for": "perfectly charred, thin- crust pies",
+    "location_tag": ["#rowdtla", "#infautationla"],
+    "cuisine": "[\"Italian\", \"Neapolitan-style Pizza\"]"
+  },
+  {
+    "restaurant_name": "The Lonely Oyster",
+    "address": "2601 Main St, Santa Monica, CA 90405",
+    "instagram": "@the_lonely_oyster",
+    "famous_for": "Eating an extravagant seafood tower",
+    "location_tag": ["Santa Monica"],
+    "cuisine": "[\"Seafood American Brunch\"]"
+  },
+  {
+    "restaurant_name": "Tet-a-Tet",
+    "address": "1425 4th St, Santa Monica, CA 90401",
+    "instagram": "@tetatetla",
+    "famous_for": "nightly transformation with style and a bit of flair",
+    "location_tag": "#infatuationla #EEEEEats #LArestaurants",
+    "cuisine": "[\"Mexican\"]"
+  },
+  {
+    "restaurant_name": "Pine and Crane",
+    "address": "2845 W Silver Lake Dr, Los Angeles, CA 90039",
+    "instagram": "@pineandcrane",
+    "famous_for": "Perfectly comforting bowl of wonton noodle soup",
+    "location_tag": ["Silverlake"],
+    "cuisine": "[\"Chinese\", \"Taiwanese\"]"
+  },
+  {
+    "restaurant_name": "@quartersheets",
+    "address": "12345 Santa Monica Blvd, Los Angeles, CA 90025",
+    "instagram": "@quartersheets",
+    "famous_for": "pan-style pizza and dessert",
+    "location_tag": ["infatuationla", "eeeeeats", "larestaurants", "lapizza"],
+    "cuisine": "[\"Italian\", \"Pizza\"]"
+  },
+  {
+    "restaurant_name": "Bub and Grandma's",
+    "address": "1315 Santa Monica Blvd, Santa Monica, CA 90401",
+    "instagram": "@bubandgrandmasbread",
+    "famous_for": "remarkable breakfast sandwiches",
+    "location_tag": ["infatuationla"],
+    "cuisine": "[\"American\"]"
+  },
+  {
+    "restaurant_name": "The best spots to eat and drink in Beverly Hills",
+    "address": "2424 Olympic Blvd, Beverly Hills, CA 90211",
+    "instagram": "infatuationla",
+    "famous_for": "Best spots to eat and drink in Beverly Hills",
+    "location_tag": ["#BeverlyHills", "#Larestaurants"],
+    "cuisine": "[\"American\"]"
+  },
+  {
+    "restaurant_name": "Pine & Crane",
+    "address": "725 N San Julian St, Los Angeles, CA 90012",
+    "instagram": "@pineandcrane",
+    "famous_for": "Scallion pancake wrap",
+    "location_tag": ["DTLA"],
+    "cuisine": "[ \"Chinese\", \"Szechuan\" ]"
+  },
+  {
+    "restaurant_name": "Trophies",
+    "address": "12345 Santa Monica Blvd, West Hollywood, CA 90025",
+    "instagram": "",
+    "famous_for": "Burger",
+    "location_tag": ["infatuationla", "eeeeeats", "larestaurants"],
+    "cuisine": "[\"American\"]"
+  },
+  {
+    "restaurant_name": "@mrtlarestaurant",
+    "address": "123 Main St, Los Angeles, CA 90012",
+    "instagram": "@mrtlarestaurant",
+    "famous_for": "Surprisingly simple and satisfying street food with traditional French cooking",
+    "location_tag": "#Larestaurants #EEEEEats",
+    "cuisine": "[ \"French\", \"Street Food Fusion\" ]"
+  },
+  {
+    "restaurant_name": "Meteora",
+    "address": "1550 N Vine St, Hollywood, CA 90028",
+    "instagram": "",
+    "famous_for": "experimental fine dining experience",
+    "location_tag": ["infatuationla", "#eeeeeats", "#larestaurants"],
+    "cuisine": "[\"Experimental Fine Dining\"]"
+  },
+  {
+    "restaurant_name": "Kuya Lord LA",
+    "address": "2425 W Pico Blvd, Los Angeles, CA 90006",
+    "instagram": "@kuyalord_la",
+    "famous_for": "Exceptional food and personal atmosphere of a family-run restaurant.",
+    "location_tag": ["larestaurants", "infatuationla"],
+    "cuisine": "[\"Filipino\"]"
+  },
+  {
+    "restaurant_name": "@cobis.la",
+    "address": "1111 Hillhurst Ave, Los Angeles, CA 90065",
+    "instagram": "@cobis.la",
+    "famous_for": "Maximalism and curry meet to create a refreshingly energetic menu.",
+    "location_tag": ["infatuationla", "larestaurants"],
+    "cuisine": "[\"Indian\"]"
+  },
+  {
+    "restaurant_name": "Capri Club",
+    "address": "2424 Colorado Blvd, Eagle Rock, CA 90041",
+    "instagram": "",
+    "famous_for": "sipping a smooth, foam-topped espresso martini",
+    "location_tag": ["Eagle Rock"],
+    "cuisine": "[\"Italian-American\"]"
+  },
+  {
+    "restaurant_name": "Tail of the Pup",
+    "address": "3443 N Clark St, Chicago, IL 60657",
+    "instagram": "@tailothepup",
+    "famous_for": "Delicious hot dogs",
+    "location_tag": "#FairfaxVillage",
+    "cuisine": "[\"American\", \"Hot Dog\"]"
+  },
+  {
+    "restaurant_name": "Mother Tongue Restaurant",
+    "address": "1437 N Gower St, Hollywood, CA 90028",
+    "instagram": "@mothertonguerestaurant",
+    "famous_for": "Eating caviar inside a members-only fitness club",
+    "location_tag": ["Hollywood"],
+    "cuisine": "[]"
+  },
+  {
+    "restaurant_name": "Oy Bar LA",
+    "address": "1624 N Cahuenga Blvd, Los Angeles, CA 90028",
+    "instagram": "@oybarla",
+    "famous_for": "Studio City dive bar",
+    "location_tag": ["#InfatuationLA", "#EEEEEATS #StudioCity"],
+    "cuisine": "[\"American\"]"
+  },
+  {
+    "restaurant_name": "Infatuation",
+    "address": "3425 W Sunset Blvd, Los Angeles, CA 90026",
+    "instagram": "Infatuation",
+    "famous_for": "Guide to eating in LA",
+    "location_tag": "#Silverlake",
+    "cuisine": "[\"American\"]"
+  },
+  {
+    "restaurant_name": "@saffysla",
+    "address": "5140 Santa Monica Blvd, Los Angeles, CA 90029",
+    "instagram": "@saffysla",
+    "famous_for": "Middle Eastern spot",
+    "location_tag": ["East Hollywood"],
+    "cuisine": "[\"Middle Eastern\"]"
+  },
+  {
+    "restaurant_name": "Kato Restaurant",
+    "address": "555 S Hope St #101, Los Angeles, CA 90013",
+    "instagram": "@katorestaurant",
+    "famous_for": "Taiwanese fine dining",
+    "location_tag": ["Downtown LA"],
+    "cuisine": "[\"Taiwanese\"]"
+  },
+  {
+    "restaurant_name": "The Best Wine Bars In LA",
+    "address": "2222 Main St, Santa Monica, CA 90405",
+    "instagram": "infatuationla",
+    "famous_for": "Wine bars with a special atmosphere to get you out of your sweatpants",
+    "location_tag": "#VeniceBeach #Silverlake",
+    "cuisine": "[]"
+  },
+  {
+    "restaurant_name": "Cobra & Matador",
+    "address": "1111 N Highland Ave, Los Angeles, CA 90038",
+    "instagram": "@cobrasandmatadors",
+    "famous_for": "",
+    "location_tag": ["InfatuationLA"],
+    "cuisine": "[\"Mexican\"]"
+  },
+  {
+    "restaurant_name": "Cobras and Matadors",
+    "address": "1231 N Highland Ave, Los Angeles, CA 90038",
+    "instagram": "@cobrasandmatadors",
+    "famous_for": "",
+    "location_tag": ["InfatuationLA"],
+    "cuisine": "[\"Mexican\"]"
+  },
+  {
+    "restaurant_name": "OY Bar",
+    "address": "8555 Santa Monica Blvd, West Hollywood, CA 90069",
+    "instagram": "@oybarla",
+    "famous_for": "Aperitivo spots and dive bars",
+    "location_tag": "#WestHollywood",
+    "cuisine": "[\"Italian\", \"Aperitivo\"]"
+  },
+  {
+    "restaurant_name": "Oak OBiNG",
+    "address": "1627 Lincoln Blvd, Santa Monica, CA 90401",
+    "instagram": "@oakobing",
+    "famous_for": "Frozen Treats",
+    "location_tag": ["SantaMonica"],
+    "cuisine": "[\"Korean\"]"
+  },
+  {
+    "restaurant_name": "Cobi's",
+    "address": "1445 E Colorado Blvd, Pasadena, CA 91106",
+    "instagram": "@cobis.la",
+    "famous_for": "Brunch with a patio",
+    "location_tag": ["@InfatuationLA"],
+    "cuisine": "[ \"American\" ]"
+  },
+  {
+    "restaurant_name": "Mariscos Selfaro",
+    "address": "5325 N Figueroa St, Highland Park, CA 90039",
+    "instagram": "@mariscoselfaro_",
+    "famous_for": "Ceviche",
+    "location_tag": ["Highland Park"],
+    "cuisine": "[\"Mexican\", \"Seafood\"]"
+  },
+  {
+    "restaurant_name": "Trini Style Cuisines",
+    "address": "114 N Market St, Inglewood, CA 90301",
+    "instagram": "@trinistylecuisines",
+    "famous_for": "Freshly made doubles, bake n' shark, and pholourie",
+    "location_tag": ["Inglewood"],
+    "cuisine": "[\"Trinidadian\", \"West Indian\"]"
+  },
+  {
+    "restaurant_name": "Mariscos El Faro",
+    "address": "Via Orano, 14, 30123 Venice, VE, Italy",
+    "instagram": "@mariscoselfaro_",
+    "famous_for": "amazingly fresh seafood",
+    "location_tag": ["Venice"],
+    "cuisine": "[\"Mexican\", \"Seafood\"]"
+  },
+  {
+    "restaurant_name": "@dosbesospasadena",
+    "address": "222 W Colorado Blvd, Pasadena, CA 91105",
+    "instagram": "@dosbesospasadena",
+    "famous_for": "Spanish paella specialist",
+    "location_tag": ["Pasadena"],
+    "cuisine": "[\"Spanish\"]"
+  },
+  {
+    "restaurant_name": "Saffy's",
+    "address": "5555 Melrose Ave, Los Angeles, CA 90038",
+    "instagram": "@saffysla",
+    "famous_for": "",
+    "location_tag": "#InfatuationLA #EEEEEATS",
+    "cuisine": "[\"Persian/Iranian\"]"
+  },
+  {
+    "restaurant_name": "Infatuation",
+    "address": "7557 Melrose Ave, West Hollywood, CA 90046",
+    "instagram": "InfatuationLA",
+    "famous_for": "Eating carbohydrates",
+    "location_tag": ["West Hollywood"],
+    "cuisine": "[Italian]"
+  },
+  {
+    "restaurant_name": "Infatuation",
+    "address": "1245 King St Ste C, Alexandria, VA 22314",
+    "instagram": "infatuationla",
+    "famous_for": "Photogenic pub burgers",
+    "location_tag": ["Fairfax"],
+    "cuisine": "[\"American\"]"
+  },
+  {
+    "restaurant_name": "Broad Street Oyster Co",
+    "address": "700 S Grand Ave, Los Angeles, CA 90017",
+    "instagram": "@broadstreetoysterco",
+    "famous_for": "Glittering seafood towers, soul food, and crepes infused with brandy",
+    "location_tag": "#InfatuationLA #EEEEEATS",
+    "cuisine": "[\"Seafood American\"]"
+  },
+  {
+    "restaurant_name": "Pijja Palace",
+    "address": "3455 W Sunset Blvd, Los Angeles, CA 90026",
+    "instagram": "@pijjapalace",
+    "famous_for": "genre- bending Indian sports bar with saag-topped pizzas, mid-century furniture, R&B music, and tons of flatscreen TVs",
+    "location_tag": ["Silver Lake"],
+    "cuisine": "[\"Indian\"]"
+  },
+  {
+    "restaurant_name": "InfatuationLA",
+    "address": "2800 W Sunset Blvd, Los Angeles, CA 90026",
+    "instagram": "InfatuationLA",
+    "famous_for": "Not mentioned, but likely food recommendations and reviews",
+    "location_tag": "#Silverlake",
+    "cuisine": "[\"American\"]"
+  },
+  {
+    "restaurant_name": "@cobrasandmatadors",
+    "address": "1238 S Santa Monica Pier, Santa Monica, CA 90401",
+    "instagram": "@cobrasandmatadors",
+    "famous_for": "exceptional food",
+    "location_tag": ["#InfatuationLA", "#EEEEEATS #SantaMonica"],
+    "cuisine": "[Spanish]"
+  },
+  {
+    "restaurant_name": "Kodo",
+    "address": "4021 W Sunset Blvd, Los Angeles, CA 90026",
+    "instagram": "@kodo.la",
+    "famous_for": "",
+    "location_tag": "#Silverlake",
+    "cuisine": "[\"Japanese\"]"
+  },
+  {
+    "restaurant_name": "Pijja Palace",
+    "address": "2521 Griffith Park Blvd, Los Angeles, CA 90039",
+    "instagram": "@pijjapalace",
+    "famous_for": "new favorite spot in Silver Lake",
+    "location_tag": ["SilverLake"],
+    "cuisine": "[Thai]"
+  },
+  {
+    "restaurant_name": "La Guelaguetza",
+    "address": "1525 West Pico Blvd, Los Angeles, CA 90015",
+    "instagram": "@laguelaguetza",
+    "famous_for": "Oaxacan cuisine",
+    "location_tag": "#Westlake",
+    "cuisine": "[ \"Mexican\" ]"
+  },
+  {
+    "restaurant_name": "Sushi Nikkei LA",
+    "address": "5555 E 2nd St, Long Beach, CA 90803",
+    "instagram": "@sushinikkei_la",
+    "famous_for": "Japanese-Peruvian mashup dishes",
+    "location_tag": ["Long Beach"],
+    "cuisine": "[\"Japanese-Peruvian\"]"
+  },
+  {
+    "restaurant_name": "Kuya Lord",
+    "address": "12321 Venice Blvd, Los Angeles, CA 90066",
+    "instagram": "",
+    "famous_for": "Casual Filipino spot with delicious food",
+    "location_tag": "#InfatuationLA #EEEEEATS",
+    "cuisine": "[\"Filipino\"]"
+  },
+  {
+    "restaurant_name": "@eat_ryla",
+    "address": "1401 S Western Ave, Hermosa Beach, CA 90254",
+    "instagram": "@eat_ryla",
+    "famous_for": "dark, sexy dinner spot",
+    "location_tag": ["Hermosa"],
+    "cuisine": "[None]"
+  },
+  {
+    "restaurant_name": "Pijja Palace",
+    "address": "2424 Hyperion Ave, Silver Lake, CA 90039",
+    "instagram": "@pijjapalace",
+    "famous_for": "Birthday Dinner",
+    "location_tag": "#Silverlake #EastHollywood",
+    "cuisine": "[\"Thai\"]"
+  },
+  {
+    "restaurant_name": "@kodo.la",
+    "address": "555 S Hewitt St, Los Angeles, CA 90013",
+    "instagram": "@kodo.la",
+    "famous_for": "sushi and sake-fueled night out",
+    "location_tag": "#ArtsDistrict #InfatuationLA",
+    "cuisine": "[\"Japanese\", \"Izakaya\"]"
+  },
+  {
+    "restaurant_name": "Tokki",
+    "address": "3455 W 6th St, Los Angeles, CA 90020",
+    "instagram": "@tokki.la",
+    "famous_for": "Serves small, shareable Korean tapas plates",
+    "location_tag": [" Koreatown"],
+    "cuisine": "[\"Korean\"]"
+  },
+  {
+    "restaurant_name": "Melisse",
+    "address": "4555 Lincoln Blvd, Santa Monica, CA 90405",
+    "instagram": "@melisserestaurant",
+    "famous_for": "Tasting menu spot with a high-end price point",
+    "location_tag": ["Santa Monica"],
+    "cuisine": "[\"French-American Fine Dining\"]"
+  },
+  {
+    "restaurant_name": "Bar Lis",
+    "address": "6725 Santa Monica Blvd, Los Angeles, CA 90038",
+    "instagram": "barlisla",
+    "famous_for": "cocktails, disco beats, city views and live jazz",
+    "location_tag": ["Hollywood"],
+    "cuisine": "[]"
+  },
+  {
+    "restaurant_name": "Mung Korean Steakhouse",
+    "address": "3727 W 6th St, Los Angeles, CA 90020",
+    "instagram": "@munkoreansteakhouse",
+    "famous_for": "Korean steakhouse",
+    "location_tag": "#KoreatownLA #Westlake",
+    "cuisine": "[\"Korean\"]"
+  },
+  {
+    "restaurant_name": "Sushi Hama",
+    "address": "144 S San Pedro St, Los Angeles, CA 90012",
+    "instagram": "@meetjakob",
+    "famous_for": "Refined sushi bars",
+    "location_tag": ["Little Tokyo"],
+    "cuisine": "[\"Japanese\", \"Sushi\"]"
+  },
+  {
+    "restaurant_name": "Shake Shack x Tacos y Birria La Unica",
+    "address": "1234 S Western Ave, Los Angeles, CA 90006",
+    "instagram": "@shakeshack @tacosybirrialaunica @prosciuttogirl69",
+    "famous_for": "Collaboration burger",
+    "location_tag": ["EEEEEATSCON"],
+    "cuisine": "[Mexican, American]"
+  },
+  {
+    "restaurant_name": "PRD LA",
+    "address": "425 S Main St, Los Angeles, CA 90013",
+    "instagram": "@prd_la",
+    "famous_for": "Pineapple Macau pork chop bun sandwiches",
+    "location_tag": ["Chinatown"],
+    "cuisine": "[ \"Chinese\", \"Macanese\" ]"
+  },
+  {
+    "restaurant_name": "Happy Ice",
+    "address": "2500 Yonge St, Toronto, ON M4P 3G1",
+    "instagram": "@happyice",
+    "famous_for": "dairy-free water ice dessert",
+    "location_tag": ["EATSCON"],
+    "cuisine": "[Italian]"
+  },
+  {
+    "restaurant_name": "Haru Sushi WW",
+    "address": "6333 W Sunset Blvd, Hollywood, CA 90028",
+    "instagram": "@harusushiww",
+    "famous_for": "Pastrami Rueben Quesadillas",
+    "location_tag": ["Hollywood"],
+    "cuisine": "[\"Japanese\", \"Sushi\"]"
+  },
+  {
+    "restaurant_name": "EEEEEATSCON",
+    "address": "1720 Main St, Santa Monica, CA 90401",
+    "instagram": "@EEEEEATSCON",
+    "famous_for": "deep-fried cheese and vodka-sauce rigatoni",
+    "location_tag": ["The Barker Hangar", "Santa Monica"],
+    "cuisine": "[\"Italian-American\"]"
+  },
+  {
+    "restaurant_name": "EEEEEATSCON",
+    "address": "1415 4th St, Santa Monica, CA 90401",
+    "instagram": "@EEEEEATSCON",
+    "famous_for": "a variety of food from different cuisines and celebrity appearances",
+    "location_tag": ["Santa Monica"],
+    "cuisine": "[]"
+  },
+  {
+    "restaurant_name": "@kinn.la",
+    "address": "3233 W 6th St, Los Angeles, CA 90020",
+    "instagram": "@kinn.la",
+    "famous_for": "one of the most affordable tasting menus in LA",
+    "location_tag": ["Koreatown"],
+    "cuisine": "[\"Korean\"]"
+  },
+  {
+    "restaurant_name": "@ggiata",
+    "address": "2301 Wilshire Blvd, Santa Monica, CA 90403",
+    "instagram": "@ggiata",
+    "famous_for": "Some of the best sandwiches in LA",
+    "location_tag": ["Santa Monica"],
+    "cuisine": "[\"Italian\"]"
+  },
+  {
+    "restaurant_name": "Kodo",
+    "address": "2222 Santa Monica Blvd, Santa Monica, CA 90404",
+    "instagram": "@kodo.la",
+    "famous_for": "The Most Exciting Dinner Spots In LA Right Now",
+    "location_tag": ["InfatuationLA", "EEEEEATS"],
+    "cuisine": "[Korean]"
+  },
+  {
+    "restaurant_name": "AJ Seafood Shack",
+    "address": "1500 E 7th St, Long Beach, CA 90813",
+    "instagram": "@ajseafoodshack",
+    "famous_for": "Garlic shrimp with sweet butter and spicy sauce",
+    "location_tag": ["Long Beach"],
+    "cuisine": "[\"Seafood\", \"American\"]"
+  },
+  {
+    "restaurant_name": "Soban",
+    "address": "2441 Main St, Santa Monica, CA 90405",
+    "instagram": "@sobanlosangeles",
+    "famous_for": "Galbi Jjim with purple rice",
+    "location_tag": ["Santa Monica", "Barker Hangar"],
+    "cuisine": "[\"Korean\"]"
+  },
+  {
+    "restaurant_name": "Song",
+    "address": "4244 Sunset Blvd, Los Angeles, CA 90029",
+    "instagram": "@ntmrkt",
+    "famous_for": "",
+    "location_tag": ["Silver Lake", "Los Feliz"],
+    "cuisine": "[Korean]"
+  },
+  {
+    "restaurant_name": "EEEEEEATSCON",
+    "address": "3333 Airport Rd #200, [May 21-22', 'airplane hanger']",
+    "instagram": "",
+    "famous_for": "A food festival with a lineup of restaurants and exclusive dishes",
+    "location_tag": ["May 21-22", "airplane hanger"],
+    "cuisine": "[\"Fusion\", \"American\", \"Global Cuisine\"]"
+  },
+  {
+    "restaurant_name": "InfatuationLA",
+    "address": "2925 Main St, Silverlake, CA 90031",
+    "instagram": "infatuationla",
+    "famous_for": "Food Guide",
+    "location_tag": ["Silverlake"],
+    "cuisine": "[\"American\"]"
+  },
+  {
+    "restaurant_name": "Homage Brewing",
+    "address": "2228 Colorado Ave, Santa Monica, CA 90404",
+    "instagram": "@homagebrewing",
+    "famous_for": "Masa fried chicken and IPAs",
+    "location_tag": ["EEEEEATS", "InfatuationLA"],
+    "cuisine": "[\"American\"]"
+  },
+  {
+    "restaurant_name": "101 Coffee Shop",
+    "address": "1725 N Vine St, Hollywood, CA 90028",
+    "instagram": "@clarkstreetdiner",
+    "famous_for": "Renovation and revamp of the iconic coffee shop",
+    "location_tag": ["Hollywood"],
+    "cuisine": "[None]"
+  },
+  {
+    "restaurant_name": "The Best New Patios In LA",
+    "address": "333 S La Brea Ave, Los Angeles, CA 90036",
+    "instagram": "infatuationla",
+    "famous_for": "Outdoor patios",
+    "location_tag": ["EEEEEATS", "InfatuationLA"],
+    "cuisine": "[\"American\"]"
+  },
+  {
+    "restaurant_name": "Mother Wolf",
+    "address": "2424 Hyperion Ave, Los Angeles, CA 90027",
+    "instagram": "@InfatuationLA",
+    "famous_for": "",
+    "location_tag": ["#InfatuationLA", "#EEEEEATS"],
+    "cuisine": "[\"Tacos/Mexican\"]"
+  },
+  {
+    "restaurant_name": "Tokki",
+    "address": "3455 W 6th St, Los Angeles, CA 90008",
+    "instagram": "@tokki.la",
+    "famous_for": "Korean dishes such as tteokbokki rice cakes and kimchi fried rice",
+    "location_tag": [" Koreatown"],
+    "cuisine": "[Korean]"
+  },
+  {
+    "restaurant_name": "@kodo.la",
+    "address": "555 Flower St, Los Angeles, CA 90071",
+    "instagram": "@kodo.la",
+    "famous_for": "Grilled meats, sushi, sashimi, and cheesecake",
+    "location_tag": ["Arts District"],
+    "cuisine": "[\"Japanese\"]"
+  },
+  {
+    "restaurant_name": "The Best Late Night Restaurants",
+    "address": "2111 W Sunset Blvd, Los Angeles, CA 90026",
+    "instagram": "InfatuationLA",
+    "famous_for": "Late Night Dining Options",
+    "location_tag": ["Echo Park", "Silver Lake"],
+    "cuisine": "[]"
+  },
+  {
+    "restaurant_name": "cevichestop",
+    "address": "10469 Washington Blvd, Culver City, CA 90232",
+    "instagram": "@cevichestop",
+    "famous_for": "doing incredible things with cured fish",
+    "location_tag": ["Culver City", "#InfatuationLA"],
+    "cuisine": "[\"Peruvian\"]"
+  },
+  {
+    "restaurant_name": "Combras and Matadors",
+    "address": "1234 S La Brea Ave, Los Angeles, CA 90019",
+    "instagram": "@combrasandmatadors",
+    "famous_for": "BYOB Spanish spot",
+    "location_tag": "#InfatuationLA",
+    "cuisine": "[\"Spanish\"]"
+  },
+  {
+    "restaurant_name": "camphorla",
+    "address": "550 S Hope St, Los Angeles, CA 90013",
+    "instagram": "@camphorla",
+    "famous_for": "mostly French, occasionally Southeast Asian cuisine",
+    "location_tag": ["Arts District"],
+    "cuisine": "[\"French\", \"Southeast Asian\"]"
+  },
+  {
+    "restaurant_name": "Harold and Belle's Restaurant",
+    "address": "1001 Decatur St, New Orleans, LA 70116",
+    "instagram": "@haroldandbellesrestaurant",
+    "famous_for": "Excellent Creole food",
+    "location_tag": ["#SouthLA", "#ESEEEEEATSCON"],
+    "cuisine": "[Creole]"
+  },
+  {
+    "restaurant_name": "Hollywood Marouch",
+    "address": "5145 W Sunset Blvd, Los Angeles, CA 90027",
+    "instagram": "@hollywood_marouch",
+    "famous_for": "all things mezze",
+    "location_tag": ["East Hollywood"],
+    "cuisine": "[\"Lebanese- Armenian\"]"
+  },
+  {
+    "restaurant_name": "Delano Pizza",
+    "address": "514 W 4th St, Los Angeles, CA 90013",
+    "instagram": "@delanonna_la",
+    "famous_for": "Pizzas with a light, crackly crust",
+    "location_tag": ["Arts District"],
+    "cuisine": "[\"Italian\"]"
+  },
+  {
+    "restaurant_name": "Huitou Xiang",
+    "address": "1035 S Alameda St, Los Angeles, CA 90015",
+    "instagram": "@huitouxiang",
+    "famous_for": "Upscale izakayas, dumpling shops, and 30,000 square-foot motorcycle cafes",
+    "location_tag": "#InfatuationLA #EEEEEATS",
+    "cuisine": "[\"Chinese\"]"
+  },
+  {
+    "restaurant_name": "Holy Basil",
+    "address": "1055 S Fairfax Ave, Los Angeles, CA 90019",
+    "instagram": "holybasil_la",
+    "famous_for": "Thai food",
+    "location_tag": ["Downtown LA", "Santa Monica"],
+    "cuisine": "[\"Thai\"]"
+  },
+  {
+    "restaurant_name": "Yangban",
+    "address": "123 S San Vicente Blvd, Los Angeles, CA 90048",
+    "instagram": "",
+    "famous_for": "casual option",
+    "location_tag": ["InfatuationLA", "#EEEEEATS"],
+    "cuisine": "[Korean]"
+  },
+  {
+    "restaurant_name": "Little Fish",
+    "address": "1617 4th St, Santa Monica, CA 90401",
+    "instagram": "littlefish_echopark",
+    "famous_for": "Backyard fish-fry",
+    "location_tag": ["Barker Hanger", "Santa Monica"],
+    "cuisine": "[\"Seafood\"]"
+  },
+  {
+    "restaurant_name": "@mazal.la",
+    "address": "5555 La Brea Ave, Los Angeles, CA 90036",
+    "instagram": "@mazal.la",
+    "famous_for": "Vegetarian small plates",
+    "location_tag": ["EEEEEATSCON"],
+    "cuisine": "[\"Vegetarian Israeli\"]"
+  },
+  {
+    "restaurant_name": "barmorunola",
+    "address": "2727 Glendale Blvd, Los Angeles, CA 90039",
+    "instagram": "@barmorunola",
+    "famous_for": "hen of woods mushrooms",
+    "location_tag": "#SilverLake",
+    "cuisine": "[\"Italian\"]"
+  },
+  {
+    "restaurant_name": "Infatuation",
+    "address": "1234 Westwood Blvd, Los Angeles, CA 90024",
+    "instagram": "InfatuationLA",
+    "famous_for": "Unknown, as the caption only mentions that they are on the Hit List.",
+    "location_tag": ["#EEEEEATS", "#InfatuationLA"],
+    "cuisine": "[\"American\"]"
+  },
+  {
+    "restaurant_name": "InfatuationLA",
+    "address": "2701 Griffith Park Blvd, Los Angeles, CA 90039",
+    "instagram": "InfatuationLA",
+    "famous_for": "LA Restaurant Horoscope Guide",
+    "location_tag": ["Silverlake"],
+    "cuisine": "[None]"
+  },
+  {
+    "restaurant_name": "Kazan",
+    "address": "555 S Hope St, Los Angeles, CA 90013",
+    "instagram": "",
+    "famous_for": "Soba noodles",
+    "location_tag": ["InfatuationLA", "#EEEEEATS"],
+    "cuisine": "[Tatar]"
+  },
+  {
+    "restaurant_name": "Vibrato Grill Jazz",
+    "address": "2424 Main St, Santa Monica, CA 90405",
+    "instagram": "@vibratogrilljazz",
+    "famous_for": "Live jazz music and romantic atmosphere",
+    "location_tag": "#SantaMonica",
+    "cuisine": "[\"American\"]"
+  },
+  {
+    "restaurant_name": "Tsubaki",
+    "address": "333 S Fairfax Ave, Los Angeles, CA 90036",
+    "instagram": "@tsubakila",
+    "famous_for": "Date spot",
+    "location_tag": "#InfatuationLA #Fairfax",
+    "cuisine": "[]"
+  },
+  {
+    "restaurant_name": "Republique Cafe",
+    "address": "1238 N Highland Ave, Los Angeles, CA 90038",
+    "instagram": "@republiquecafe",
+    "famous_for": "",
+    "location_tag": ["Studio City"],
+    "cuisine": "[\"French\"]"
+  },
+  {
+    "restaurant_name": "@bakedpotatojazzclub",
+    "address": "3456 Glendale Blvd, Silver Lake, CA 90039",
+    "instagram": "@bakedpotatojazzclub",
+    "famous_for": "Only eat baked potatoes and play jazz music",
+    "location_tag": ["Silverlake"],
+    "cuisine": "[\"American\"]"
+  },
+  {
+    "restaurant_name": "Birrieria Gonzalez",
+    "address": "215 E Compton Blvd, Compton, CA 90221",
+    "instagram": "@birrieria_gonzalez",
+    "famous_for": "Tijuana-style birria tacos and smoky consumme",
+    "location_tag": ["Compton"],
+    "cuisine": "[\"Tijuana-style Mexican\"]"
+  },
+  {
+    "restaurant_name": "Infatuation",
+    "address": "12345 Santa Monica Blvd, West Hollywood, CA 90025",
+    "instagram": "infatuation",
+    "famous_for": "Guide to great places to eat after a bad audition",
+    "location_tag": ["#InfatuationLA"],
+    "cuisine": "[]"
+  },
+  {
+    "restaurant_name": "Fat and Flour",
+    "address": "3400 W Magnolia Blvd, Burbank, CA 91505",
+    "instagram": "@fatandflourla",
+    "famous_for": "Baked goods",
+    "location_tag": ["InfatuationLA"],
+    "cuisine": "[\"Western\", \"American\"]"
+  },
+  {
+    "restaurant_name": "The Oyster Bar",
+    "address": "8227 Santa Monica Blvd, West Hollywood, CA 90046",
+    "instagram": "@leoysterbar",
+    "famous_for": "",
+    "location_tag": ["West Hollywood"],
+    "cuisine": "[\"Seafood\", \"American\"]"
+  },
+  {
+    "restaurant_name": "Gushi",
+    "address": "12355 Santa Monica Blvd, Los Angeles, CA 90025",
+    "instagram": "",
+    "famous_for": "classic Korean walk-up window",
+    "location_tag": ["Westwood"],
+    "cuisine": "[Korean]"
+  },
+  {
+    "restaurant_name": "La Esperanza Restaurant",
+    "address": "2431 Pacific Coast Hwy, Torrance, CA 90505",
+    "instagram": "@laesperanzarestaurants",
+    "famous_for": "Guatemalan, Salvadoran, and Mexican baked goods",
+    "location_tag": ["Torrance", "Long Beach"],
+    "cuisine": "[\"Guatemalan\", \"Salvadoran\", \"Mexican\"]"
+  },
+  {
+    "restaurant_name": "Prael",
+    "address": "2220 Main St, Santa Monica, CA 90405",
+    "instagram": "",
+    "famous_for": "Thai food, specifically jungle curry",
+    "location_tag": "#InfatuationLA #EEEEEATS",
+    "cuisine": "[\"Thai\"]"
+  },
+  {
+    "restaurant_name": "Chinchikurin",
+    "address": "2001 Sawtelle Blvd, West LA, CA 90025",
+    "instagram": "@chinchikurin_la",
+    "famous_for": "Hiroshima-style okonomiyaki",
+    "location_tag": ["Sawtelle Blvd", "West LA"],
+    "cuisine": "[\"Japanese\"]"
+  },
+  {
+    "restaurant_name": "Found Oyster",
+    "address": "1238 N Highland Ave, Los Angeles, CA 90038",
+    "instagram": "@foundoyster",
+    "famous_for": "Seafood spot",
+    "location_tag": ["East Hollywood", "InfatuationLA"],
+    "cuisine": "[\"Seafood\"]"
+  },
+  {
+    "restaurant_name": "Antico Nuovo",
+    "address": "5555 Melrose Ave, Los Angeles, CA 90038",
+    "instagram": "@anticonuovo___la",
+    "famous_for": "best ice cream in the entire world",
+    "location_tag": ["InfatuationLA"],
+    "cuisine": "[\"Italian\"]"
+  },
+  {
+    "restaurant_name": "@latofuhouse",
+    "address": "7201 W 3rd St, Los Angeles, CA 90048",
+    "instagram": "@latofuhouse",
+    "famous_for": "late-night Ktown tofu spot",
+    "location_tag": ["Ktown"],
+    "cuisine": "[Korean]"
+  },
+  {
+    "restaurant_name": "eeeeeatscon",
+    "address": "123 Main St, Santa Monica, CA 90401",
+    "instagram": "@eeeeeetscon",
+    "famous_for": "",
+    "location_tag": ["Santa Monica", "Barker Hangar"],
+    "cuisine": "[\"International/Global\"]"
+  },
+  {
+    "restaurant_name": "Pizzeria Sei",
+    "address": "8400 W 3rd St, Los Angeles, CA 90048",
+    "instagram": "@pizzeria.sei",
+    "famous_for": "Neapolitan pies",
+    "location_tag": ["InfatuationLA"],
+    "cuisine": "[\"Neapolitan-Italian\", \"Pizza\"]"
+  },
+  {
+    "restaurant_name": "centopastabar",
+    "address": "2134 W Sunset Blvd, Los Angeles, CA 90026",
+    "instagram": "centopastabar",
+    "famous_for": "incredible pasta",
+    "location_tag": ["InfatuationLA"],
+    "cuisine": "[\"Italian\"]"
+  },
+  {
+    "restaurant_name": "Majordomo",
+    "address": "2425 Colorado Ave, Santa Monica, CA 90404",
+    "instagram": "majordomola",
+    "famous_for": "birthday dinner",
+    "location_tag": ["InfatuationLA", "EEEEEATS"],
+    "cuisine": "[None]"
+  },
+  {
+    "restaurant_name": "U Street Pizza",
+    "address": "5555 Melrose Ave, Los Angeles, CA 90038",
+    "instagram": "@ustreetpizza",
+    "famous_for": "Vodka Pepperoni Pizza",
+    "location_tag": "#InfatuationLA #EEEEEATS",
+    "cuisine": "[\"Italian\", \"Neapolitan Pizza\"]"
+  },
+  {
+    "restaurant_name": "camphorla",
+    "address": "555 S Hope St, Los Angeles, CA 90013",
+    "instagram": "@camphorla",
+    "famous_for": "lobster with coral bisque, oysters with amaretto mignonette, and plates of mussels",
+    "location_tag": ["Arts District"],
+    "cuisine": "[\"French\"]"
+  },
+  {
+    "restaurant_name": "The 21 Best Restaurants In Pasadena",
+    "address": "1500 S Rosemead Blvd, Pasadena, CA 91106",
+    "instagram": "#InfatuationLA",
+    "famous_for": "Great food",
+    "location_tag": ["Pasadena"],
+    "cuisine": "[]"
+  },
+  {
+    "restaurant_name": "Little Dom's",
+    "address": "8408 W. Third St, Los Angeles, CA 90048",
+    "instagram": "@littledomsla",
+    "famous_for": "",
+    "location_tag": ["InfatuationLA"],
+    "cuisine": "[Italian]"
+  },
+  {
+    "restaurant_name": "Kazan Beverly Hills",
+    "address": "9635 S Santa Monica Blvd, Beverly Hills, CA 90212",
+    "instagram": "@kazanbeverlyhills",
+    "famous_for": "Truffle and soy soba",
+    "location_tag": ["BeverlyHills", "MidCity"],
+    "cuisine": "[Japanese]"
+  },
+  {
+    "restaurant_name": "Breakfast by Salt & Cure",
+    "address": "8422 W 3rd St, West Hollywood, CA 90048",
+    "instagram": "@breakfastbysaltscure",
+    "famous_for": "Oatmeal griddle cake with varieties like banana nut, chocolate chip, and blueberry with flax seed crumble",
+    "location_tag": ["West Hollywood"],
+    "cuisine": "[\"American\", \"Breakfast/Brunch\"]"
+  },
+  {
+    "restaurant_name": "Gold Burger LA",
+    "address": "10320 Little River Turnpike, Fairfax, VA 22030",
+    "instagram": "@goldburgerla",
+    "famous_for": "Burgers, including a special chili cheeseburger with yellow mustard BBQ sauce",
+    "location_tag": ["Fairfax"],
+    "cuisine": "[\"American\", \"Fast Food\", \"Burger Joint\"]"
+  },
+  {
+    "restaurant_name": "Side Chick",
+    "address": "1040 S Atlantic Blvd, Monterey Park, CA 91754",
+    "instagram": "",
+    "famous_for": "Hainan chicken rice",
+    "location_tag": "#MontereyPark",
+    "cuisine": "[\"Singaporean\"]"
+  },
+  {
+    "restaurant_name": "@wadatsumi",
+    "address": "234 S El Camino Real, Torrance, CA 90501",
+    "instagram": "@wadatsumi_torrance",
+    "famous_for": "medleys of super-fresh sashimi over sushi rice",
+    "location_tag": ["InfatuationLA", "Torrrance"],
+    "cuisine": "[\"Japanese\", \"Sushi\"]"
+  },
+  {
+    "restaurant_name": "@yangbanla",
+    "address": "2222 Colorado Ave, Los Angeles, CA 90041",
+    "instagram": "@yangbanla",
+    "famous_for": "Korean spot with deli, convenience store and late-night hangout spot",
+    "location_tag": ["Arts District"],
+    "cuisine": "[\"Korean\"]"
+  },
+  {
+    "restaurant_name": "Nossa",
+    "address": "1935 Hillhurst Ave, Los Angeles, CA 90027",
+    "instagram": "@nossa_losangeles",
+    "famous_for": "Roasted chicken and pão de queijo",
+    "location_tag": ["Los Feliz", "Hillhurst"],
+    "cuisine": "[\"Brazilian-Italian Fusion\"]"
+  },
+  {
+    "restaurant_name": "Anajak",
+    "address": "8439 Santa Monica Blvd, West Hollywood, CA 90069",
+    "instagram": "infatuationla",
+    "famous_for": "alleyway dining",
+    "location_tag": ["#WestHollywood"],
+    "cuisine": "[Thai]"
+  },
+  {
+    "restaurant_name": "@katorestaurant",
+    "address": "555 South Hope Street, Los Angeles, CA 90013",
+    "instagram": "@katorestaurant",
+    "famous_for": "",
+    "location_tag": ["Arts District"],
+    "cuisine": "[\"American\"]"
+  },
+  {
+    "restaurant_name": "Hot and Cool Cafe",
+    "address": "2301 Slauson Ave, Los Angeles, CA 90040",
+    "instagram": "@hotandcoolcafe",
+    "famous_for": "serving the community, soul food spot",
+    "location_tag": ["South LA"],
+    "cuisine": "[\"Soul Food\"]"
+  },
+  {
+    "restaurant_name": "Sunday Gravy",
+    "address": "100 S La Brea Ave, Inglewood, CA 90301",
+    "instagram": "@sunday.gravy",
+    "famous_for": "Cheesy garlic bread and red-sauce classics",
+    "location_tag": ["Inglewood"],
+    "cuisine": "[\"Italian-American\"]"
+  },
+  {
+    "restaurant_name": "Hollywood Marouch",
+    "address": "5555 Hollywood Blvd, Los Angeles, CA 90028",
+    "instagram": "@hollywood_marouch",
+    "famous_for": "Lebanese food and muhammara",
+    "location_tag": "#SilverLake #EchoPark",
+    "cuisine": "[\"Lebanese\"]"
+  },
+  {
+    "restaurant_name": "27th Street Bakery",
+    "address": "123 N 27th St, Los Angeles, CA 90010",
+    "instagram": "@27thstreetbakery",
+    "famous_for": "personal pan pies made with a family recipe passed down over three generations",
+    "location_tag": "#SouthLA #InfatuationLA",
+    "cuisine": "[\"American\"]"
+  },
+  {
+    "restaurant_name": "hereslookingatyoula",
+    "address": "3727 W 6th St, Los Angeles, CA 90020",
+    "instagram": "@hereslookingatyoula",
+    "famous_for": "Korean cuisine with old favorites and new stand-outs",
+    "location_tag": ["Koreatown"],
+    "cuisine": "[\"Korean\"]"
+  },
+  {
+    "restaurant_name": "Kinn",
+    "address": "2915 Glendale Blvd, Los Angeles, CA 90039",
+    "instagram": "@kinnla",
+    "famous_for": "six-course Korean feast",
+    "location_tag": ["Silverlake"],
+    "cuisine": "[\"Korean\"]"
+  },
+  {
+    "restaurant_name": "Cobi's",
+    "address": "2501 Main St, Santa Monica, CA 90405",
+    "instagram": "",
+    "famous_for": "curry-heavy menu",
+    "location_tag": ["Santa Monica"],
+    "cuisine": "[\"Indian\"]"
+  },
+  {
+    "restaurant_name": "Black-Owned Restaurants In South LA",
+    "address": "1025 E Florence Ave, Los Angeles, CA 90001",
+    "instagram": "InfatuationLA",
+    "famous_for": "Black-owned restaurants",
+    "location_tag": ["South LA"],
+    "cuisine": "[None]"
+  },
+  {
+    "restaurant_name": "Manuela",
+    "address": "221 S Hope St, Los Angeles, CA 90012",
+    "instagram": "",
+    "famous_for": "biscuits",
+    "location_tag": ["Arts District"],
+    "cuisine": "[]"
+  },
+  {
+    "restaurant_name": "The Best Paella",
+    "address": "1421 Abbot Kinney Blvd, Venice, CA 90291",
+    "instagram": "InfatuationLA",
+    "famous_for": "Spanish rice and paella dishes",
+    "location_tag": ["Venice", "Santa Monica"],
+    "cuisine": "[\"Spanish\"]"
+  },
+  {
+    "restaurant_name": "Gjusta",
+    "address": "2323 Main St, Santa Monica, CA 90405",
+    "instagram": "@gjustabakery",
+    "famous_for": "Crudo and bakery items",
+    "location_tag": ["Venice"],
+    "cuisine": "[\"Bakery\", \"European-inspired\"]"
+  },
+  {
+    "restaurant_name": "Centopasta Bar",
+    "address": "2500 Glendale Blvd, Los Angeles, CA 90039",
+    "instagram": "@centopastabar",
+    "famous_for": "pasta",
+    "location_tag": "#SilverLake",
+    "cuisine": "[\"Italian\"]"
+  },
+  {
+    "restaurant_name": "Woon Kitchen",
+    "address": "1055 S Vermont Ave, Los Angeles, CA 90006",
+    "instagram": "@woonkitchen",
+    "famous_for": "Celebrating Lunar New Year with specials",
+    "location_tag": "#Koreatown",
+    "cuisine": "[ \"Korean\" ]"
+  },
+  {
+    "restaurant_name": "Pasjoli",
+    "address": "355 Broadway, Santa Monica, CA 90401",
+    "instagram": "@pasjoli.sm",
+    "famous_for": "Upscale French cuisine",
+    "location_tag": "#InfatuationLA",
+    "cuisine": "[\"French\"]"
+  },
+  {
+    "restaurant_name": "Eat Jame",
+    "address": "2500 Pacific Coast Hwy, El Segundo, CA 90254",
+    "instagram": "@eatjame",
+    "famous_for": "Prosciutto plates, pesto mandilli, and pork shank",
+    "location_tag": ["El Segundo"],
+    "cuisine": "[\"Italian\"]"
+  },
+  {
+    "restaurant_name": "Leo's Oyster Bar",
+    "address": "2510 Griffith Park Blvd, Silver Lake, CA 90039",
+    "instagram": "@leoysterbar",
+    "famous_for": "oyster towers",
+    "location_tag": ["Silver Lake"],
+    "cuisine": "[\"Seafood\", \"American\"]"
+  }
+]
